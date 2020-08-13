@@ -1,4 +1,3 @@
-
 Blackbird V6 README (version 1.0.79.3)
 - www.getblackbird.net
 - info@getblackbird.net (PGP key below)
