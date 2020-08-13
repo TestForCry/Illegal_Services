@@ -1,0 +1,24 @@
+[RunOnce]
+RunOnce=1
+DateRun=25/07/2020
+[Settings]
+Design=0
+Category=0
+UseDebotnetEditor=1
+RunAlwaysInElevatedMode=0
+[Repository]
+URL=https://github.com/mirinsoft/debotnet/blob/master/scripts/
+[Wget]
+OutputDir=D:\Bureau\Illegal Services\Portable_Apps\debotnet
+WgetPath=D:\Bureau\Illegal Services\Portable_Apps\debotnet\bin\wget.exe
+WgetParam=-q --show-progress --progress=bar:force --no-hsts --no-check-certificate -N -P
+[Release]
+Stable=True
+Nightly=False
+[Scripts]
+start=0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+[WindowState]
+Left=0
+Top=450
+Height=8610
+Width=14490
