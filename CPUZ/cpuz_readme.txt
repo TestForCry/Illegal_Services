@@ -2,8 +2,8 @@
 CPU-Z Readme file
 ------------------
 
-Version 1.92.2
-June 2020
+Version 1.93
+August 2020
 Contact : cpuz@cpuid.com
 Web page: https://www.cpuid.com/softwares/cpu-z.html
 Validation page : https://valid.x86.fr/
@@ -87,10 +87,15 @@ The cache latency tool can be downloaded at that address : http://download.cpuid
 History
 -------
 --------------------------------------------------------------------------------------------------
+1.93 - August 2020
+- AMD Ryzen 7 PRO 4750G, Ryzen 5 PRO 4650G, Ryzen 3 PRO 4350G.
+- Intel Tiger Lake platform.
+
+--------------------------------------------------------------------------------------------------
 1.92.2 - June 2020
-- AMD Ryzen 9 3900XT, Ryzen 7 3800XT and Ryzen 5 3600XT (1.92.1).
-- AMD B550 chipset (1.92.1).
-- Hygon processors preliminary support (1.92.1).
+- AMD Ryzen 9 3900XT, Ryzen 7 3800XT and Ryzen 5 3600XT (1.92.2).
+- AMD B550 chipset (1.92.2).
+- Hygon processors preliminary support (1.92.2).
 - Intel Z490/W480/B460 Comet Lake platform support.
 - AMD "Renoir" Ryzen APU.
 - AMD Ryzen 3 3100 & 3300X.
