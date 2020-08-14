@@ -18,5 +18,5 @@ echo ===========================================================================
 echo [40;36m
 echo Press any key to exit . . .
 pause >nul
-if exist %Output% start %Output%
+if defined output if exist %output% start %output%
 exit
