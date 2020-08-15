@@ -21,7 +21,7 @@ echo         [40;36mThat's all, now just relax and whait . . .[40;90m
 echo:
 echo =======================================================================================
 echo [40;31m
-call "Portable_Apps\nmap-7.80\nmap.exe" -T5 %prefix%%argument1%%middle%%argument2% %choice%
+call "Portable_Apps\NMAP\nmap.exe" -T5 %prefix%%argument1%%middle%%argument2% %choice%
 echo [40;90m
 echo =======================================================================================
 echo [40;36m
