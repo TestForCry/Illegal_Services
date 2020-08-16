@@ -10,7 +10,7 @@ echo:
 if "%language%"=="FR" echo         [40;36mChoix : %option%[40;90m
 if "%language%"=="EN" echo         [40;36mChoice : %option%[40;90m
 if "%language%"=="FR" echo         [40;36mVeuillez patienter pendant le t‚l‚chargement . . .[40;90m
-if "%language%"=="EN" echo         [40;36mThat's all, now just relax and whait . . .[40;90m
+if "%language%"=="EN" echo         [40;36mPlease wait while the downloading . . .[40;90m
 echo:
 echo ====================================================================================================
 echo [40;31m
