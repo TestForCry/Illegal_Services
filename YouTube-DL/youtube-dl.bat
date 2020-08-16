@@ -18,7 +18,7 @@ call "Portable_Apps\YouTube-DL\youtube-dl.exe" --config-location "Portable_Apps\
 echo [40;90m
 echo ====================================================================================================
 echo [40;36m
-if "%language%"=="FR" echo         T‚l‚chargement termin‚.
+if "%language%"=="FR" echo         T‚l‚chargement terminer.
 if "%language%"=="EN" echo         Download finished.
 if "%language%"=="FR" echo         Appuyez sur une touche pour ouvrir l'emplacement de t‚l‚chargement.
 if "%language%"=="EN" echo         Press any key to open download location.
