@@ -4,7 +4,8 @@ title ^|YouTube DL :  %option%^|  ^|%choice%^|
 call batbox.exe /h 0
 echo [40;90m
 echo        ##############################################
-echo        #       [40;91m[40;90m   [40;36mWelcome in YouTube DL   [40;91m[40;90m        #
+if "%language%"=="FR" echo        #      [40;91m[40;90m   [40;36mBievenue dans YouTube DL   [40;91m[40;90m      #
+if "%language%"=="EN" echo        #       [40;91m[40;90m   [40;36mWelcome in YouTube DL   [40;91m[40;90m        #
 echo        ##############################################
 echo:
 if "%language%"=="FR" echo         [40;36mChoix : %option%[40;90m
