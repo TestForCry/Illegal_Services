@@ -1,14 +1,16 @@
 @echo off
 mode con lines=29999 cols=100
-title ^|YouTube DL :  %option2%^|  ^|%choice%^|
+title ^|YouTube DL :  %option%^|  ^|%choice%^|
 call batbox.exe /h 0
 echo [40;90m
 echo        ##############################################
 echo        #       [40;91m[40;90m   [40;36mWelcome in YouTube DL   [40;91m[40;90m        #
 echo        ##############################################
 echo:
-echo         [40;36m%option1%[40;90m
-echo         [40;36mThat's all, now just relax and whait . . .[40;90m
+if "%language%"=="FR" echo         [40;36mChoix : %option%[40;90m
+if "%language%"=="EN" echo         [40;36mChoice : %option%[40;90m
+if "%language%"=="FR" echo         [40;36mVeuillez patienter pendant le t‚l‚chargement . . .[40;90m
+if "%language%"=="EN" echo         [40;36mThat's all, now just relax and whait . . .[40;90m
 echo:
 echo ====================================================================================================
 echo [40;31m
@@ -16,7 +18,12 @@ call "Portable_Apps\YouTube-DL\youtube-dl.exe" --config-location "Portable_Apps\
 echo [40;90m
 echo ====================================================================================================
 echo [40;36m
-echo Press any key to exit . . .
+if "%language%"=="FR" echo         T‚l‚chargement termin‚.
+if "%language%"=="EN" echo         Download finished.
+if "%language%"=="FR" echo         Appuyez sur une touche pour ouvrir l'emplacement de t‚l‚chargement.
+if "%language%"=="EN" echo         Press any key to open download location.
 pause >nul
-if defined output if exist %output% start %output%
+if defined output if exist %output% (
+    start "" "explorer.exe" "%output%"
+)
 exit
