@@ -12,25 +12,25 @@ DoNotSpy10 is the world's first antispy tool for Windows 10. Its straight-forwar
 how Windows 10 respects their privacy. Microsoft introduces many new "diagnostic" features with Windows 10. These services help Microsoft collect
 usage data and thus to provide a better service. However, collecting and sharing your data with one of the world's leading technology companies
 puts your privacy at risk. There are services which are able to record your keyboard input, your speech and any other actions of the user. Others share
-your WiFi credentials with your contact or connect you to networks shared by your contacts. 
-DoNotSpy10 provides you with the opportunity to easily manage what you want to share and what not. While many of the settings represent what 
+your WiFi credentials with your contact or connect you to networks shared by your contacts.
+DoNotSpy10 provides you with the opportunity to easily manage what you want to share and what not. While many of the settings represent what
 you can configure using the Settings and various other apps, there are also tweaks that are not easily accessible through the apps Windows provides.
-DoNotSpy10 combines them all in one application - it's time to protect your privacy, let's start! 
+DoNotSpy10 combines them all in one application - it's time to protect your privacy, let's start!
 
 
 About (German):
 
 DoNotSpy10 ist das weltweit erste Antispy Tool für Windows 10. Seine einfache Benutzeroberfläche ermöglicht es dem Anwender, auf einfache Art und Weise
 zu regeln, wie Windows 10 seine Privatsphäre respektiert. Microsoft hat mit Windows 10 zahlreiche "Diagnosefeatures" eingeführt. Diese Dienste helfen
-Microsoft, Daten über das Nutzungsverhalten der Anwender zu sammeln und dadurch einen besseren Service anbieten zu können. Andererseits stellt das Sammeln 
+Microsoft, Daten über das Nutzungsverhalten der Anwender zu sammeln und dadurch einen besseren Service anbieten zu können. Andererseits stellt das Sammeln
 und Teilen von Nutzungsdaten mit einer der größten Technologiefirmen der Welt ein enormes Sicherheitsrisiko dar. Einige Dienste können sogar Tastatur-, Spracheingaben
 und jegliche andere Nutzeraktionen aufzeichnen. Andere teilen beispielsweise die verwendeten WLAN Zugangsdaten oder verbinden den Computer
 ungefragt mit Netzwerken, deren Zugangsdaten von Kontakten geteilt werden.
 DoNotSpy10 ermöglicht es dem Anwender, selbst zu entscheiden, was er teilen möchte und was nicht. Während viele der Einstellungen auch händisch über die
 Windows Systemeinstellungen und zahlreiche andere Apps verwaltet werden könnten, sind einige Einstellungen dabei, die vom Anwender händisch nur mit größerem
 Aufwand gesteuert werden können.
-DoNotSpy10 vereint alle wichtigen Einstellungen in einer einfach bedienbaren Anwendung - es wird Zeit, die Privatsphäre zu schützen - los geht's! 
- 
+DoNotSpy10 vereint alle wichtigen Einstellungen in einer einfach bedienbaren Anwendung - es wird Zeit, die Privatsphäre zu schützen - los geht's!
+
 
 Changelog (English):
 
@@ -45,7 +45,7 @@ Changelog (English):
 - Version 5.1 (14/10/2019)
 	- General: Added Support for Windows 10 April 2019 Update (1903)
 	- General: Added Support for Windows 10 November 2019 Update (1909)
-	- General: Added Search Feature 
+	- General: Added Search Feature
 	- General: Added Search Filters (all, checked, unchecked)
 	- General: Optimized load time for tweak list
 	- General: Fixed several smaller issues
@@ -67,7 +67,7 @@ Changelog (English):
 	- Tweak updated: Disable App Access to File System
 	- Tweak updated: Disable App Access to Phone Call History
 	- Tweak updated: Disable App Access to Tasks
-	
+
 - Version 5.0 (19/10/2018)
 	- General: Added Support for Windows 10 October Update (1809)
 	- General: Optimized tab stop order (especially important for screen reader users)
@@ -92,7 +92,7 @@ Changelog (English):
 	- Tweak updated: Apps: Disable Sync With Devices
 	- Tweak updated: Apps: Disable Access to Diagnostic Data
 	- Tweak updated: Updates: Disable Windows Update Sharing
-	
+
 - Version 4.0 (04/08/2018)
 	- General: Added Support for the Windows 10 Spring Creators Update (RS4)
 	- Tweak added: Advertising: Disable Third Party Suggestions
@@ -136,9 +136,9 @@ Changelog (English):
 
 - Version 2.0 (04/11/2017)
 	- General: Added Support for the Windows 10 Creators Update
-	- General: Settings applicable to the Creators Update only will not appear on the Anniversary Update	
+	- General: Settings applicable to the Creators Update only will not appear on the Anniversary Update
 	- General: Added categories in front of each setting (Advertising, Apps, Defender, Edge, Privacy, Search, Start, Updates)
-	- Limited: Updates: Defer Windows Upgrades works on builds < 14997 
+	- Limited: Updates: Defer Windows Upgrades works on builds < 14997
 	- Limited: Apps: Disable App Notifications works on builds < 15031
 	- Tweak added: Apps: Disable Access to Notifications (Creators Update)
 	- Tweak added: Apps: Disable Access to Contacts (Creators Update)
@@ -153,7 +153,7 @@ Changelog (English):
 	- Tweak added: Advertising: Disable Advertising in Windows Explorer (Creators Update)
 	- Tweak added: Apps: Disable Silent Installed Apps (Creators Update)
 	- Tweak added: Advertising: Disable App Suggestions in Windows Ink Workspace  (Creators Update)
-	- Tweak updated: Search: Disable Getting to know me											
+	- Tweak updated: Search: Disable Getting to know me
 	- Tweak updated: Privacy: Disable Location
 
 
@@ -197,7 +197,7 @@ Changelog (English):
 	- Updated Tweak: Disable Page Prediction in Edge
 	- Updated Tweak: Enable Do not Track in Edge
 
-	
+
 - Version 1.1.0.0
 	- Enhanced error handling
 	- Fixed/Improved Tweak: Disable Malicious Software Removal Tool via Windows Update
@@ -212,7 +212,7 @@ Changelog (English):
 	- Added Tweak: Disable Adobe Flash Player in Edge
 	- Several smaller improvements
 
-	
+
 - Version 1.0.0.2
 	- General: Updated tweak descriptions and titles
 	- General: Added message box to confirm applied settings
@@ -229,7 +229,7 @@ Changelog (English):
 - Version 1.0.0.1
 	- fixed false Smart Screen detections
 
-- Version 1.0.0.0 
+- Version 1.0.0.0
 	- initial release
 
 
@@ -242,7 +242,7 @@ Changelog (German):
 	- Tweak hinzugefügt: Apps: Deaktiviere Stimmaktivierung
 	- Tweak aktualisiert: Werbung: Deaktiviere Werbung im Windows Explorer
 
-	
+
 - Version 5.1 (14.10.2019)
 	- Allgemein: Unterstützt das Windows 10 April 2019 Update (1903)
 	- Allgemein: Unterstützt das Windows 10 November 2019 Update (1909)
@@ -268,7 +268,7 @@ Changelog (German):
 	- Tweak aktualisiert: Apps: Deaktiviere Zugriff auf das Dateisystem
 	- Tweak aktualisiert: Apps: Deaktiviere Zugriff auf Anrufhistorie
 	- Tweak aktualisiert: Apps: Deaktiviere Zugriff auf Aufgaben
-	
+
 - Version 5.0 (19/10/2018)
 	- Allgemein: Unterstützt das Windows 10 Oktober Update
 	- Allgemein: Optimierte Tabstop Reihenfolge (insbesondere für Screenreader Anwender hilfreich)
@@ -281,7 +281,7 @@ Changelog (German):
 	- Neuer Tweak: Privatsphäre: Deaktiviere Hardware-Tastatur Wortvorschläge
 	- Neuer Tweak: Privatsphäre: Deaktiviere Mehrsprachige Textvorhersage
 	- Neuer Tweak: Privatsphäre: Deaktiviere Benachrichtigungen auf dem Sperrbildschirm
-	- Privatsphäre: Deaktiviere Erinnerungen und Voip-Anrufe auf Sperrbildschirm	
+	- Privatsphäre: Deaktiviere Erinnerungen und Voip-Anrufe auf Sperrbildschirm
 	- Neuer Tweak: Privatsphäre: Deaktiviere "auf Geräten freigeben"
 	- Neuer Tweak: Privatsphäre: Deaktiviere Software-Tastatur Wortvorschläge
 	- Neuer Tweak: Edge: Deaktiviere Cortana
@@ -296,27 +296,27 @@ Changelog (German):
 
 
 - Version 4.0 (08.04.2018)
-	- Allgemein: Unterstützt das Windows 10 Spring Creators Update (RS4)	
-	- Neuer Tweak: Apps: Deaktiviere Zugriff auf das Dateisystem	
-	- Neuer Tweak: Apps: Deaktiviere Zugriff auf Dokumente	
-	- Neuer Tweak: Apps: Deaktiviere Zugriff auf Fotos	
-	- Neuer Tweak: Apps: Deaktiviere Zugriff auf Videos	
-	- Neuer Tweak: Privatsphäre: Deaktiviere Aktivitätsverlauf	
-	- Neuer Tweak: Privatsphäre: Deaktiviere Upload von Nutzeraktivitäten	
-	- Neuer Tweak: Privatsphäre: Deaktiviere Veröffentlichung von Nutzeraktivitäten	
-	- Neuer Tweak: Privatsphäre: Deaktiviere Windows-Blickpunkt	
-	- Neuer Tweak: Werbung: Deaktiviere Empfehlungen von Drittanbietern	
-	- Tweak aktualisiert: Apps: Deaktiviere Zugriff auf Anrufhistorie	
-	- Tweak aktualisiert: Apps: Deaktiviere Zugriff auf Aufgaben	
-	- Tweak aktualisiert: Apps: Deaktiviere Zugriff auf Email	
-	- Tweak aktualisiert: Apps: Deaktiviere Zugriff auf Kalender	
-	- Tweak aktualisiert: Apps: Deaktiviere Zugriff auf Kamera	
-	- Tweak aktualisiert: Apps: Deaktiviere Zugriff auf Kontakte	
-	- Tweak aktualisiert: Apps: Deaktiviere Zugriff auf Lokalisierung	
-	- Tweak aktualisiert: Apps: Deaktiviere Zugriff auf Mikrofon	
-	- Tweak aktualisiert: Apps: Deaktiviere Zugriff auf Nachrichten	
-	- Tweak aktualisiert: Apps: Deaktiviere Zugriff auf Nutzerkonten-Info	
-	- Tweak aktualisiert: Updates: Deaktivieren der Windows Update-Verteilung	
+	- Allgemein: Unterstützt das Windows 10 Spring Creators Update (RS4)
+	- Neuer Tweak: Apps: Deaktiviere Zugriff auf das Dateisystem
+	- Neuer Tweak: Apps: Deaktiviere Zugriff auf Dokumente
+	- Neuer Tweak: Apps: Deaktiviere Zugriff auf Fotos
+	- Neuer Tweak: Apps: Deaktiviere Zugriff auf Videos
+	- Neuer Tweak: Privatsphäre: Deaktiviere Aktivitätsverlauf
+	- Neuer Tweak: Privatsphäre: Deaktiviere Upload von Nutzeraktivitäten
+	- Neuer Tweak: Privatsphäre: Deaktiviere Veröffentlichung von Nutzeraktivitäten
+	- Neuer Tweak: Privatsphäre: Deaktiviere Windows-Blickpunkt
+	- Neuer Tweak: Werbung: Deaktiviere Empfehlungen von Drittanbietern
+	- Tweak aktualisiert: Apps: Deaktiviere Zugriff auf Anrufhistorie
+	- Tweak aktualisiert: Apps: Deaktiviere Zugriff auf Aufgaben
+	- Tweak aktualisiert: Apps: Deaktiviere Zugriff auf Email
+	- Tweak aktualisiert: Apps: Deaktiviere Zugriff auf Kalender
+	- Tweak aktualisiert: Apps: Deaktiviere Zugriff auf Kamera
+	- Tweak aktualisiert: Apps: Deaktiviere Zugriff auf Kontakte
+	- Tweak aktualisiert: Apps: Deaktiviere Zugriff auf Lokalisierung
+	- Tweak aktualisiert: Apps: Deaktiviere Zugriff auf Mikrofon
+	- Tweak aktualisiert: Apps: Deaktiviere Zugriff auf Nachrichten
+	- Tweak aktualisiert: Apps: Deaktiviere Zugriff auf Nutzerkonten-Info
+	- Tweak aktualisiert: Updates: Deaktivieren der Windows Update-Verteilung
 
 
 - Version 3.0 (17.10.2017)
@@ -336,12 +336,12 @@ Changelog (German):
 	- Neuer Tweak: Suche: Deaktiviere Cloud-Suche (Fall Creators Update)
 	- Neuer Tweak: Updates: Deaktiviere Automatisches Update für Sprachdaten (Fall Creators Update)
 	- Tweak aktualisiert: Suche: Deaktivieren und Zurücksetzen von Cortana
-	
+
 - Version 2.0 (11.04.2017)
 	- Allgemein: Unterstützt das Windows 10 Creators Update
 	- Allgemein: Einstellungen, die nur auf das Creators Update anwendbar sind, tauchen auf einem System mit Anniversary Update nicht auf
 	- Allgemein: Den Einstellungen wurden Kategorien vorangestellt (Apps, Defender, Edge, Privatsphäre, Start, Suche, Updates, Werbung)
-	- Beschränkt: Updates: Aktiviere Aufschieben von Upgrades funktioniert unter Builds < 14997 
+	- Beschränkt: Updates: Aktiviere Aufschieben von Upgrades funktioniert unter Builds < 14997
 	- Beschränkt: Apps: Deaktiviere App-Benachrichtigungen funktioniert unter Builds < 15031
 	- Neuer Tweak: Apps: Deaktiviere Zugriff auf Benachrichtigungen (Creators Update)
 	- Neuer Tweak: Apps: Deaktiviere Zugriff auf Kontakte (Creators Update)
@@ -356,15 +356,15 @@ Changelog (German):
 	- Neuer Tweak: Werbung: Deaktiviere Werbung im Windows Explorer (Creators Update)
 	- Neuer Tweak: Apps: Deaktiviere heimlich installierte Apps (Creators Update)
 	- Neuer Tweak: Werbung: Deaktiviere App-Vorschläge im Windows Ink Workspace (Creators Update)
-	- Tweak aktualisiert: Suche: Deaktiviere Kennenlernen										
+	- Tweak aktualisiert: Suche: Deaktiviere Kennenlernen
 	- Tweak aktualisiert: Privatsphäre: Deaktiviere Positionserkennung
-	
+
 - Version 1.2.0.2
 	- Allgemein: Behebung einiger kleinerer Fehler
 	- Neuer Tweak: Deaktiviere automatische Treiber-Updates (Build 14328+)
 	- Tweak aktualisiert: Deaktiviere Feedback-Aufforderungen
 	- Tweak aktualisiert: Deaktiviere automatische Treiber-Updates (Build < 14328)
-	
+
 - Version 1.2.0.1
 	- Allgemein: Fehlende Übersetzung ergänzt, die zum Absturz des Programms führte
 
@@ -399,7 +399,7 @@ Changelog (German):
 	- Tweak aktualisiert: Deaktiviere Seitenvorhersage in Edge
 	- Tweak entfernt: Deaktiviere Windows Update für andere Produkte
 
-	
+
 - Version 1.1.0.0
 	- Verbesserte Fehlerbehandlung
 	- Implementierung neuer Registry Algorithmen
@@ -414,10 +414,10 @@ Changelog (German):
 	- Neuer Tweak: Deaktiviere Adobe Flash Player in Edge
 	- zahlreiche kleinere Verbesserungen
 
-	
+
 - Version 1.0.0.2
 	- Allgemein: Tweak Beschreibungen und Titel aktualisiert
-	- Allgemein: Benachrichtigung als Bestätigung nach Einstellungs-Anwendung 
+	- Allgemein: Benachrichtigung als Bestätigung nach Einstellungs-Anwendung
 	- Korrigierter/verbesserter Tweak: Deaktiviere Telemetrie
 	- Korrigierter/verbesserter Tweak: Deaktivieren von Windows Update-Verteilung
 	- Korrigierter/verbesserter Tweak: Deaktiviere WiFi Sense
@@ -427,11 +427,11 @@ Changelog (German):
 	- Neuer Tweak: Deaktiviere KMS Client Online Validierung
 	- Neuer Tweak: Deaktiviere Bezug von Geräte-Metadaten
 	- Neuer Tweak: Deaktiviere Windows-Programm zur Verbesserung der Benutzerfreundlichkeit
-	
-- Version 1.0.0.1 
+
+- Version 1.0.0.1
 	- Windows Smart Screen Fehlerekennungen behoben
 
-- Version 1.0.0.0 
+- Version 1.0.0.0
 	- erste öffentliche Version
 
 
