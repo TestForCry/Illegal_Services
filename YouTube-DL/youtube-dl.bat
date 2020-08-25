@@ -1,6 +1,6 @@
 @echo off
-mode con lines=29999 cols=100
 title ^|YouTube DL :  %option%^|  ^|%choice%^|
+mode con lines=29999 cols=100
 call "batool.exe" h 1
 echo [40;90m
 echo        ##############################################
