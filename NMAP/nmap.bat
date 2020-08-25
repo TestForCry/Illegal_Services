@@ -1,5 +1,5 @@
 @echo off
-net start npcap
+net start npcap >nul 2>nul
 cls
 for /f "tokens=3" %%a in ('call "reg.exe" query "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters" /v "MaxUserPort" ^|findstr /ri "REG_DWORD"') do set "MaxUserPort=%%a"
 if not "%MaxUserPort%"=="0xfc16" call "reg.exe" add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters" /v "MaxUserPort" /t REG_DWORD /d 64534 /f >nul && set MaxUserPort=
