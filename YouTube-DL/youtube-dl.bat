@@ -1,7 +1,7 @@
 @echo off
 mode con lines=29999 cols=100
 title ^|YouTube DL :  %option%^|  ^|%choice%^|
-call "batool.exe" /h 1
+call "batool.exe" h 1
 echo [40;90m
 echo        ##############################################
 if "%language%"=="FR" echo        #      [40;91m[40;90m   [40;36mBievenue dans YouTube DL   [40;91m[40;90m      #
