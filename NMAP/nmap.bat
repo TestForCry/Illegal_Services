@@ -9,7 +9,7 @@ for /f "tokens=3" %%a in ('call "reg.exe" query "HKEY_LOCAL_MACHINE\SYSTEM\Curre
 if not "%TcpTimedWaitDelay%"=="0x1e" call "reg.exe" add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters" /v "TcpTimedWaitDelay" /t REG_DWORD /d 30 /f >nul && set TcpTimedWaitDelay=
 mode con lines=29999 cols=87
 title ^|NMAP :  %choice%^|    ^|%option1%^|    ^|%option2%^|
-call "batool.exe" /h 1
+call "batool.exe" h 1
 echo [40;90m
 echo        #################################################################
 if "%language%"=="FR" echo        #    [40;91m[40;90m   [40;36mBienvenue dans le meilleur Port Scanner par NMAP   [40;91m[40;90m   #
