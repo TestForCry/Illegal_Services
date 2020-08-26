@@ -1,6 +1,6 @@
 @echo off
 title ^|YouTube DL :  %option%^|  ^|%choice%^|
-mode con lines=30 cols=105
+mode con lines=30 cols=106
 call "batool.exe" h 1
 echo [40;90m
 echo        ##############################################
@@ -13,11 +13,11 @@ if "%language%"=="EN" echo         [40;36mChoice : %option%[40;90m
 if "%language%"=="FR" echo         [40;36mVeuillez patienter pendant le t‚l‚chargement . . .[40;90m
 if "%language%"=="EN" echo         [40;36mPlease wait while the downloading . . .[40;90m
 echo:
-echo ====================================================================================================
+echo ========================================================================================================
 echo [40;31m
 call "Portable_Apps\YouTube-DL\youtube-dl.exe" --config-location "Portable_Apps\YouTube-DL" --ffmpeg-location "Portable_Apps\YouTube-DL" --add-metadata %argument0%%argument1%%argument2%%argument3%%argument4% "%choice%"
 echo [40;90m
-echo ====================================================================================================
+echo ========================================================================================================
 echo [40;36m
 if "%language%"=="FR" echo         T‚l‚chargement terminer.
 if "%language%"=="EN" echo         Download finished.
