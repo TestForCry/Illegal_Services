@@ -2,7 +2,7 @@
 title ^|NMAP :  %choice%^|    ^|%option1%^|    ^|%option2%^|
 mode con lines=29999 cols=87
 call "batool.exe" h 1
-net start npcap >nul 2>nul
+net start npcap >nul 2>&1
 for /f "tokens=3" %%a in ('call "reg.exe" query "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters" /v "MaxUserPort" ^|findstr /ri "REG_DWORD"') do set "MaxUserPort=%%a"
 if not "%MaxUserPort%"=="0xfc16" call "reg.exe" add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters" /v "MaxUserPort" /t REG_DWORD /d 64534 /f >nul && set MaxUserPort=
 for /f "tokens=3" %%a in ('call "reg.exe" query "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters" /v "StrictTimeWaitSeqCheck" ^|findstr /ri "REG_DWORD"') do set "StrictTimeWaitSeqCheck=%%a"
