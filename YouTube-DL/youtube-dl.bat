@@ -23,7 +23,7 @@ if "%language%"=="FR" echo         T‚l‚chargement terminer.
 if "%language%"=="EN" echo         Download finished.
 if "%language%"=="FR" echo         Appuyez sur une touche pour ouvrir l'emplacement de t‚l‚chargement.
 if "%language%"=="EN" echo         Press any key to open download location.
-pause >nul
+pause >nul 2>&1
 if defined output if exist %output% (
     start "" "explorer.exe" "%output%"
 )
