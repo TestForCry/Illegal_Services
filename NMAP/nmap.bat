@@ -24,7 +24,7 @@ if "%language%"=="EN" echo         [40;36mPlease wait while scanning %choice% 
 echo:
 echo =======================================================================================
 echo [40;31m
-call "Portable_Apps\NMAP\nmap.exe" -T5 %prefix%%argument1%%middle%%argument2% %choice%
+call "Portable_Apps\NMAP\nmap.exe" -T5 --open %prefix%%argument1%%middle%%argument2% %choice%
 echo [40;90m
 echo =======================================================================================
 echo [40;36m
