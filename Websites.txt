@@ -43,11 +43,12 @@ fmovies.to
 www.uwatchfree.ai
 123movieshub.tc
 popcornflix.io
+;;SERIES
 www.watchepisodeseries1.com
+;;ANIMES
 gogoanime.video
 9anime.to
 7anime.io
-kissanime.pro
 kissanimefree.net
 www.animefreak.tv
 kisscartoon.info
@@ -92,6 +93,7 @@ www.ddl1.best
 www.site-de-telechargement.com
 www.ddl-is.land
 ;;WINDOWS
+www.intercambiosvirtuales.org
 crackingpatching.com
 karanpc.com
 filecr.com
@@ -99,6 +101,7 @@ www.mazterize.com
 s0ft4pc.com
 babupc.com
 www.trucnet.com
+free4pc.org
 www.sadeempc.com
 haxnode.com
 lostvayne.com
@@ -110,7 +113,7 @@ diakov.net
 lrepacks.ru
 repack.me
 repack-games.com
-fitgirl-repacks.cc
+fitgirl-repacks.site
 v.xatab-repack.net
 repack-mechanics.com
 www.blackboxrepack.com
@@ -130,10 +133,10 @@ quez.in
 www.stressthem.to
 ;;instant-stresser.com
 freeboot.to
-str3ssed.co
-;;quickboot.ru
-;;anonboot.com
-;;client.undisclosed.to
+stresser.vip
+stressingninja.cc
+venomstress.nl
+iraven.cc
 freestresser.to
 meteor-security.to
 www.ipstresser.com
