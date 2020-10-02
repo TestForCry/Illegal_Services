@@ -1,4 +1,5 @@
 @echo off
+if not defined %option% exit
 title ^|YouTube DL :  %option%^|  ^|%choice%^|
 mode con lines=30 cols=106
 call "batool.exe" h 1
@@ -24,7 +25,5 @@ if "%language%"=="EN" echo         Download finished.
 if "%language%"=="FR" echo         Appuyez sur une touche pour ouvrir l'emplacement de t‚l‚chargement.
 if "%language%"=="EN" echo         Press any key to open download location.
 pause >nul 2>&1
-if defined output if exist %output% (
-    start "" "explorer.exe" "%output%"
-)
+if defined output if exist %output% start "" "explorer.exe" "%output%"
 exit
