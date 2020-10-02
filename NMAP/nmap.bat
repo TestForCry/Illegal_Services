@@ -1,4 +1,5 @@
 @echo off
+if not defined %choice% exit
 title ^|NMAP :  %choice%^|    ^|%option1%^|    ^|%option2%^|
 mode con lines=29999 cols=87
 call "batool.exe" h 1
@@ -32,5 +33,5 @@ if "%language%"=="FR" echo         Scan terminer.
 if "%language%"=="EN" echo         Scan finished.
 if "%language%"=="FR" echo         Appuyez sur une touche pour quitter.
 if "%language%"=="EN" echo         Press any key to exit.
-pause >nul
+pause >nul 2>&1
 exit
