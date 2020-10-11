@@ -192,3 +192,7 @@ knowem.com
 www.toolsbug.com
 online-free-tools.com
 ytubetool.com
+;;PORTABLEAPPS
+zippyshare.com
+www23.zippyshare.com
+www40.zippyshare.com
