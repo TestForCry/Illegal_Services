@@ -1,5 +1,5 @@
 @echo off
-if not defined %option% exit
+if not defined option exit
 title ^|YouTube DL :  %option%^|  ^|%choice%^|
 mode con lines=30 cols=106
 call "batool.exe" h 1
