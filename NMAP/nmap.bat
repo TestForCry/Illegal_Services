@@ -1,5 +1,5 @@
 @echo off
-if not defined %choice% exit
+if not defined choice exit
 title ^|NMAP :  %choice%^|    ^|%option1%^|    ^|%option2%^|
 mode con lines=29999 cols=87
 call "batool.exe" h 1
