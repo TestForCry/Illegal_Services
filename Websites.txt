@@ -139,7 +139,7 @@ vancedapp.com
 ;;DDOS
 quez.in
 www.stressthem.to
-instant-stresser.com
+;;instant-stresser.com
 freeboot.to
 stresser.net
 anonboot.com
