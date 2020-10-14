@@ -90,7 +90,7 @@ torrentmirror.fun
 dev.deluge-torrent.org
 ;;DIRECTDOWNLOAD
 www.tirexo.pro
-www.annuaire--telechargement.com
+www.zt-za.com
 www.extreme-down.video
 www.ddl1.best
 www.site-de-telechargement.com
