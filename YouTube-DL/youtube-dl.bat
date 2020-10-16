@@ -11,7 +11,7 @@ echo        ##############################################
 echo:
 if "%language%"=="FR" echo         [40;36mChoix : %option%[40;90m
 if "%language%"=="EN" echo         [40;36mChoice : %option%[40;90m
-if "%language%"=="FR" echo         [40;36mVeuillez patienter pendant le t‚l‚chargement . . .[40;90m
+if "%language%"=="FR" echo         [40;36mVeuillez patienter pendant le t‚chargement . . .[40;90m
 if "%language%"=="EN" echo         [40;36mPlease wait while the downloading . . .[40;90m
 echo:
 echo ==========================================================================================================
@@ -20,11 +20,11 @@ call "Portable_Apps\YouTube-DL\youtube-dl.exe" --config-location "Portable_Apps\
 echo [40;90m
 echo ==========================================================================================================
 echo [40;36m
-if %errorlevel% EQU 0 (if "%language%"=="FR" echo         T‚l‚chargement terminer.) ELSE (echo une erreur s'est produite et n'a pas pu t‚l‚charger le fichier.)
+if %errorlevel% EQU 0 (if "%language%"=="FR" echo         T‚chargement terminer.) ELSE (echo une erreur s'est produite et n'a pas pu t‚charger le fichier.)
 if %errorlevel% EQU 0 (if "%language%"=="EN" echo         Download finished.) ELSE (echo something went wrong and couldn't download the file.)
-if %errorlevel% EQU 0 (if "%language%"=="FR" echo         Appuyez sur une touche pour ouvrir l'emplacement de t‚l‚chargement.) ELSE (echo Appuyez sur une touche pour fermer.)
+if %errorlevel% EQU 0 (if "%language%"=="FR" echo         Appuyez sur une touche pour ouvrir l'emplacement de t‚chargement.) ELSE (echo Appuyez sur une touche pour fermer.)
 if %errorlevel% EQU 0 (if "%language%"=="EN" echo         Press any key to open download location.) ELSE (echo Press any key to exit.)
 pause >nul 2>&1
 if %errorlevel% NEQ 0 exit
-if defined output if exist %output% start "" "explorer.exe" "%output%"
+if defined YouTubeDLOutputDirectory if exist %YouTubeDLOutputDirectory% start "" "explorer.exe" "%YouTubeDLOutputDirectory%"
 exit
