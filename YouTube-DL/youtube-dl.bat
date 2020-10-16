@@ -26,7 +26,5 @@ if %errorlevel% EQU 0 (if "%language%"=="FR" echo         Appuyez sur une touch
 if %errorlevel% EQU 0 (if "%language%"=="EN" echo         Press any key to open download location.) ELSE (echo Press any key to exit.)
 pause >nul 2>&1
 if %errorlevel% NEQ 0 exit
-echo %output%
 if defined output if exist %output% start "" "explorer.exe" "%output%"
-pause
 exit
