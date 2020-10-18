@@ -1,7 +1,9 @@
 <img src="https://i.imgur.com/9iGo7wM.png">
+<div align="center">
 ## Download
-<div align="center"> &#8226; [Download](https://github.com/Illegal-Services/Illegal_Services/releases/tag/Latest) &#8226; </br></div>
+ &#8226; [Download](https://github.com/Illegal-Services/Illegal_Services/releases/tag/Latest) &#8226;
 
+</div>
 <hr>
 
 >  Illegal Service is an application created to facilitate access to the site of illegal downloads: streaming, torrent, direct download, cracks, DDoS. . .
