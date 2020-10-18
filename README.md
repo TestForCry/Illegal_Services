@@ -1,3 +1,6 @@
+# Portable_Apps
+This repository is there to keep the Launcher up to date to the latest version and to host the "Portable_Apps" folder of Illegal Services.
+
 # Description of **Illegal Services** :
 
 >  Illegal Service is an application created to facilitate access to the site of illegal downloads: streaming, torrent, direct download, cracks, DDoS. . .

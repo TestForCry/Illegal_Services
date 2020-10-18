@@ -1,0 +1,62 @@
+	Here is a list of the different things that Illegal Services can do :
+
+- Direct Download : Download files to crack any applications / films / series / animes or anything that is simply downloadable.
+
+- Streaming VF : Watch in a video stream flux any films / series / animes trought Internet for free.
+
+- Torrenting : Download .torrent files to crack any applications / films / series / animes or anything that is simply downloadable.
+You need an cross-platform BitTorrent client in order to use .torrent files. Exemple : Deluge, qBittorent, etc . . .
+
+- Windows Cracks : Download files to crack any Windows executable applications.
+
+- Android Cracks : Download files to crack any any Android APK's.
+
+- Windows Privacy/Telemetry : Allow you to better and easily manage your Windows privacy settings.
+
+- YouTube DL : Download music or video from internet and convert them to any format on your computer.
+
+- IP Denial of Services (DDoS) : A list of free websites that allow you to take your target's router offline using their IP address and Port.
+
+- IP Port Scanning : Scan your target's open ports using their IP address.
+
+- IP Pinger : Check if the IP address of your target receives packets or not using their IP address.
+
+- IP Pinger TCP :  Check if the IP address of your target receives packets or not using their IP address and Port.
+
+- IP Adress Lookup : Allows you to trace your target using his IP address.
+
+- IP Loggers : Allows you to retrieve your target IP address using a false web address.
+
+- Doxing : Allow you to retrieve informations about your target or make image searches.
+
+- Anti Viruses and Malwares : Scan your PC to found malwares / virus / trojan etc . . .
+
+- Portable Apps : Download useful little portable applications.
+
+- More Features : Other features features not enough important to be displayed in the Main Menu.
+
+
+	Illegale Services description EN :
+
+Illegal Service is an application created to facilitate access to the site of illegal downloads: streaming, torrent, direct download, cracks, DDoS. . .
+Indeed, illegal sites must constantly change their domain names to counter government attacks. It's very annoying to have to find them every time.
+This is why Illegal Services will be your best friend. Especially since he only chooses a list of the best sites, and no scam site is included.
+
+But that's not all, Illegal Services is also a powerful Multi-Tool allowing other functionalities such as DDoS attacks, Port Scanning and IP Lookup.
+
+All this to say that if you like watching movies, crack applications or doing DDoS attacks this is the perfect application created to serve you.
+
+He is compatible with Windows 7, 8, 8.1, 10 versions 32 & 64 bits.
+
+
+	Illegale Services description FR :
+
+Illegal Service est une application créée dans le but de faciliter l'accès au site de téléchargements illégaux : streaming, torrent, direct download, cracks, DDoS . . .
+En effet, les sites illégaux doivent sans arrêt changer de nom de domaines pour contrer les attaques du gouvernement. C'est très ennuyant de devoir les retrouver à chaque fois.
+C'est pour cela qu'Illegal Services sera votre meilleure amie. D'autant plus qu'il ne choisit qu'une liste des meilleurs sites, et aucuns site d'arnaque n'y figure.
+
+Mais ce n'est pas tout, Illegal Services est aussi un puissant Multi-Tool permettant d'autres fonctionnalité telles que les attaques DDoS, le Port Scanning et l'IP Lookup.
+
+Tout ça pour dire que si vous aimez regarder des films, crack des applications ou faire des attaques DDoS c'est l'application parfaite créée pour vous servir.
+
+Il est compatible avec Windows 7, 8, 8.1, 10 versions 32 & 64 bits.
