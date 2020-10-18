@@ -10,6 +10,7 @@
 &#8226;
 [![Discord](https://img.shields.io/discord/728958932210679869?label=Discord&cacheSeconds=3600)](https://discord.gg/eCMBHUB)
 &#8226;
+[![Discord Server](https://img.shields.io/discord/728958932210679869.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/eCMBHUB)
 [![Discord Server](https://discordapp.com/api/guilds/728958932210679869/widget.png)](https://discord.gg/eCMBHUB)
 [![Twitter](https://img.shields.io/twitter/follow/illegalservices?cacheSeconds=3600)](https://twitter.com/illegalservices)
 &#8226;
