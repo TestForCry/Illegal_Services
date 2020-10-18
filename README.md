@@ -26,7 +26,8 @@ This is why Illegal Services will be your best friend. Especially since it only 
 
 >  It's compatible with Windows 7, 8, 8.1, 10 versions 32 & 64 bits.
 
+<div align="center">
+
 **⚠️ Join my Telegram to get the latest Updates ! : https://t.me/illegal_services_forum ⚠️**
 
-<hr><div align="center"></div>
- 
+<hr></div>
