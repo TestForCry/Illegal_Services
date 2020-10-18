@@ -1,7 +1,8 @@
 <img src="https://i.imgur.com/9iGo7wM.png">
 <div align="center">
+ 
 ## Download
- &#8226; [Download](https://github.com/Illegal-Services/Illegal_Services/releases/tag/Latest) &#8226;
+[Download](https://github.com/Illegal-Services/Illegal_Services/releases/tag/Latest)
 
 </div>
 <hr>
