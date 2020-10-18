@@ -12,7 +12,7 @@
 &#8226;
 [![Twitter](https://img.shields.io/twitter/follow/illegalservices?cacheSeconds=3600)](https://twitter.com/illegalservices)
 &#8226;
-[![Telegram](https://img.shields.io/badge/Support_Chat-Telegram-blue.svg?labelColor=28a8e9)](https://t.me/illegal_services_forum)
+[![Telegram](https://img.shields.io/badge/Support_Chat-Telegram-blue.svg?logo=telegram&labelColor=28a8e9)](https://t.me/illegal_services_forum)
 
 </div><hr>
 
