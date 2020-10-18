@@ -1,8 +1,9 @@
 ![alt text](https://i.imgur.com/9iGo7wM.png)
-  
+
 <div align="center"><h1>Description of Illegal Services</h1>
-  
-<a href="#Overview">Overview</a> &#8226; <a href="#Download">Download</a></br>
+
+
+<a href="#Overview">Overview</a> <a href="#Download">Download</a></br>
 </div>
 <hr>
 
@@ -15,5 +16,7 @@ But that's not all, Illegal Services is also a powerful Multi-Tool allowing othe
 All this to say that if you like watching movies, crack applications or doing DDoS attacks this is the perfect application created to serve you.
 
 It's compatible with Windows 7, 8, 8.1, 10 versions 32 & 64 bits.
+
+</div>
 
 **⚠️ Join my Telegram to get the latest Updates ! : http://https://t.me/illegal_services_forum ⚠️**
