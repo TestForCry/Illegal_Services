@@ -2,8 +2,7 @@
   
 <div align="center"><h1>Description of Illegal Services</h1>
   
-
-<a href="#Overview">Overview</a> &#8226; <a href="#Disclaimer">Disclaimer</a> &#8226; <a href="#Prerequisites">Prerequisites</a> &#8226; <a href="#Download">Download</a> &#8226; <a href="#Contributing">Contributing</a> &#8226; <a href="#License">License</a></br>
+<a href="#Overview">Overview</a> &#8226; <a href="#Download">Download</a></br>
 </div>
 <hr>
 
