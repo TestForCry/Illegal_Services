@@ -6,7 +6,8 @@
 [![Downloads](https://img.shields.io/github/downloads/Illegal-Services/Illegal_Services/total?label=Downloads&cacheSeconds=3600)](https://github.com/Illegal-Services/Illegal_Services/releases/tag/Latest)
 [![Discord](https://img.shields.io/discord/194170124859736065?label=Discord&cacheSeconds=3600)](https://discord.gg/eCMBHUB)
 [![Twitter](https://img.shields.io/twitter/follow/illegalservices?cacheSeconds=3600)](https://twitter.com/illegalservices)
-[![Telegram](https://img.shields.io/telegram/follow/BUZZARDGTA?cacheSeconds=3600)](http://https://t.me/illegal_services_forum)
+[![Telegram](https://img.shields.io/telegram)](http://https://t.me/illegal_services_forum)
+[![telegram chat](https://img.shields.io/badge/Support_Chat-Telegram-blue.svg?style=flat-square)](https://t.me/joinchat/B35YY0QbLfd034CFnvCtCA)
 
 </div><hr>
 
