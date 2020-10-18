@@ -1,6 +1,5 @@
-![alt text](https://i.imgur.com/9iGo7wM.png)
-
-<div align="center"><a href="#Overview">Overview</a> &#8226; <a href="#Download">Download</a></br></div>
+<img src="https://i.imgur.com/9iGo7wM.png">
+<div align="center"> &#8226; <a href="#Download">Download</a> &#8226; </br></div>
 
 <hr>
 
@@ -16,5 +15,4 @@ This is why Illegal Services will be your best friend. Especially since it only 
 
 <hr>
 
-## Download
 **⚠️ Join my Telegram to get the latest Updates ! : http://https://t.me/illegal_services_forum ⚠️**
