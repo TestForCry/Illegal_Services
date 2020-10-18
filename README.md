@@ -26,6 +26,6 @@ This is why Illegal Services will be your best friend. Especially since it only 
 
 <div align="center">
 
-**⚠️ Join my Telegram to get the latest Updates ! : https://t.me/illegal_services_forum ⚠️**
+**⚠️ Join my Telegram to get the latest updates ! : https://t.me/illegal_services_forum ⚠️**
 
 <hr></div>
