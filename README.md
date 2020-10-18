@@ -4,7 +4,7 @@
   
 <img src="https://i.imgur.com/0Qu3mcj.png">
   
-[![GitHub version](https://img.shields.io/github/v/release/Illegal-Services/Illegal_Services.svg?logoWidth=40&logoColor=purple)](https://github.com/Illegal-Services/Illegal_Services/releases/tag/Latest)
+[![GitHub version](https://img.shields.io/github/v/release/Illegal-Services/Illegal_Services.svg?logoWidth=40)](https://github.com/Illegal-Services/Illegal_Services/releases/tag/Latest)
 &#8226;
 [![Downloads](https://img.shields.io/github/downloads/Illegal-Services/Illegal_Services/total?label=Downloads&cacheSeconds=3600)](https://github.com/Illegal-Services/Illegal_Services/releases/tag/Latest)
 &#8226;
