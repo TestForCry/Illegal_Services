@@ -8,7 +8,7 @@
 &#8226;
 [![Downloads](https://img.shields.io/github/downloads/Illegal-Services/Illegal_Services/total?label=Downloads&cacheSeconds=3600)](https://github.com/Illegal-Services/Illegal_Services/releases/download/Latest/IS.Setup.exe)
 &#8226;
-[![Discord](https://img.shields.io/discordlabel=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/eCMBHUB)
+[![Discord](https://img.shields.io?logo=Discord)](https://discord.gg/eCMBHUB)
 [![Twitter](https://img.shields.io/twitter/follow/illegalservices?cacheSeconds=3600)](https://twitter.com/illegalservices)
 &#8226;
 [![Telegram](https://img.shields.io/badge/Support_Chat-Telegram-blue.svg)](https://t.me/illegal_services_forum)
