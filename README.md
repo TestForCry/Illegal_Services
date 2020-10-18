@@ -1,6 +1,6 @@
 ![alt text](https://i.imgur.com/9iGo7wM.png)
   
-# Description of **Illegal Services** :
+<div align="center"><h1>Description of Illegal Services</h1>
 
 >  Illegal Service is an application created to facilitate access to the site of illegal downloads: streaming, torrent, direct download, cracks, DDoS. . .
 Indeed, illegal sites must constantly change their domain names to counter government attacks. It's very annoying to have to find them every time.
