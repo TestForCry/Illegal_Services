@@ -2,7 +2,7 @@
 <div align="center">
  
 ## Download
-[Download](https://github.com/Illegal-Services/Illegal_Services/releases/tag/Latest)
+["Download"](https://github.com/Illegal-Services/Illegal_Services/releases/tag/Latest)
 
 </div>
 <hr>
