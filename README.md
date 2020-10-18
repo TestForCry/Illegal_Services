@@ -1,6 +1,4 @@
 <img src="https://i.imgur.com/9iGo7wM.png">
-
-# Illegal_Services
 [![GitHub version](https://img.shields.io/github/v/release/Illegal-Services/Illegal_Services.svg)](https://github.com/Illegal-Services/Illegal_Services/releases/tag/Latest) 
 
 <hr>
