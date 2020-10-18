@@ -3,7 +3,7 @@
 <div align="center"><h1>Description of Illegal Services</h1>
 
 
-<a href="#Overview">Overview</a> <a href="#Download">Download</a></br>
+<a href="#Overview">Overview</a> &#8226; <a href="#Download">Download</a></br>
 </div>
 <hr>
 
@@ -17,6 +17,6 @@ All this to say that if you like watching movies, crack applications or doing DD
 
 It's compatible with Windows 7, 8, 8.1, 10 versions 32 & 64 bits.
 
-</div>
+<div></div>
 
 **⚠️ Join my Telegram to get the latest Updates ! : http://https://t.me/illegal_services_forum ⚠️**
