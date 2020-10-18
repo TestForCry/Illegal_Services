@@ -7,7 +7,7 @@
 [![Discord](https://img.shields.io/discord/194170124859736065?label=Discord&cacheSeconds=3600)](https://discord.gg/eCMBHUB)
 [![Twitter](https://img.shields.io/twitter/follow/illegalservices?cacheSeconds=3600)](https://twitter.com/illegalservices)
 [![Telegram](https://img.shields.io/telegram)](http://https://t.me/illegal_services_forum)
-[![telegram chat](https://img.shields.io/badge/Support_Chat-Telegram-blue.svg?style=flat-square)](http://https://t.me/illegal_services_forum)
+[![telegram chat](https://img.shields.io/badge/Support_Chat-Telegram-blue.svg?style=flat-square)](https://t.me/illegal_services_forum)
 
 </div><hr>
 
@@ -23,6 +23,6 @@ This is why Illegal Services will be your best friend. Especially since it only 
 
 <hr><div align="center">
   
-**⚠️ Join my Telegram to get the latest Updates ! : http://https://t.me/illegal_services_forum ⚠️**
+**⚠️ Join my Telegram to get the latest Updates ! : https://t.me/illegal_services_forum ⚠️**
 
 </div>
