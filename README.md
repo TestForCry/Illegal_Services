@@ -1,9 +1,6 @@
 <img src="https://i.imgur.com/9iGo7wM.png">
-<div align="center"> &#8226; </br></div>
-[Lets go to Quora](https://www.quora.com)
-
 ## Download
-Get the latest version [Download](https://github.com/Illegal-Services/Illegal_Services/releases/tag/Latest)
+<div align="center"> &#8226; [Download](https://github.com/Illegal-Services/Illegal_Services/releases/tag/Latest) &#8226; </br></div>
 
 <hr>
 
