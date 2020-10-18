@@ -10,7 +10,7 @@
 &#8226;
 [![Discord](https://img.shields.io/discord/728958932210679869?label=Discord&cacheSeconds=3600)](https://discord.gg/eCMBHUB)
 &#8226;
-[![Discord Server](https://discordapp.com/api/guilds/533275703882547200/widget.png)](https://discord.gg/eCMBHUB)
+[![Discord Server](https://discordapp.com/api/guilds/728958932210679869/widget.png)](https://discord.gg/eCMBHUB)
 [![Twitter](https://img.shields.io/twitter/follow/illegalservices?cacheSeconds=3600)](https://twitter.com/illegalservices)
 &#8226;
 [![Telegram](https://img.shields.io/badge/Support_Chat-Telegram-blue.svg)](https://t.me/illegal_services_forum)
