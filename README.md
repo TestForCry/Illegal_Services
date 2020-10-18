@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/9iGo7wM.png">
 <hr>
 
-[![GitHub last version](https://img.shields.io/badge/GithHub-Download%20Last%20Version-2b3137?logo=Github&labelColor=2b3137)](https://github.com/Illegal-Services/Illegal_Services/releases/download/Latest/IS.Setup.exe)
+[![GitHub latest version](https://img.shields.io/badge/GithHub-Download%20Latest%20Version-2b3137?logo=Github&labelColor=2b3137)](https://github.com/Illegal-Services/Illegal_Services/releases/download/Latest/IS.Setup.exe)
 
 <img src="https://i.imgur.com/48jVAZo.png">
 
