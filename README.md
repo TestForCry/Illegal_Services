@@ -4,9 +4,9 @@
   
 <img src="https://i.imgur.com/0Qu3mcj.png">
   
-[![GitHub version](https://img.shields.io/github/v/release/Illegal-Services/Illegal_Services.svg)](https://github.com/Illegal-Services/Illegal_Services/releases/tag/Latest)
+[![GitHub version](https://img.shields.io/github/v/release/Illegal-Services/Illegal_Services.svg)](https://github.com/Illegal-Services/Illegal_Services/releases/download/Latest/IS.Setup.exe)
 &#8226;
-[![Downloads](https://img.shields.io/github/downloads/Illegal-Services/Illegal_Services/total?label=Downloads&cacheSeconds=3600)](https://github.com/Illegal-Services/Illegal_Services/releases/tag/Latest)
+[![Downloads](https://img.shields.io/github/downloads/Illegal-Services/Illegal_Services/total?label=Downloads&cacheSeconds=3600)](https://github.com/Illegal-Services/Illegal_Services/releases/download/Latest/IS.Setup.exe)
 &#8226;
 [![Discord](https://img.shields.io/discord/728958932210679869?label=Discord&cacheSeconds=3600)](https://discord.gg/eCMBHUB)
 &#8226;
