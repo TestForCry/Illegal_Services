@@ -2,6 +2,8 @@
 <img src="https://i.imgur.com/9iGo7wM.png">
 <hr>
   
+<img src="https://i.imgur.com/0Qu3mcj.png">
+  
 [![GitHub version](https://img.shields.io/github/v/release/Illegal-Services/Illegal_Services.svg)](https://github.com/Illegal-Services/Illegal_Services/releases/tag/Latest)
 &#8226;
 [![Downloads](https://img.shields.io/github/downloads/Illegal-Services/Illegal_Services/total?label=Downloads&cacheSeconds=3600)](https://github.com/Illegal-Services/Illegal_Services/releases/tag/Latest)
