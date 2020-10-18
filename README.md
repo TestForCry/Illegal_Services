@@ -4,7 +4,7 @@
   
 <img src="https://i.imgur.com/0Qu3mcj.png">
   
-[![GitHub version](https://img.shields.io/github/v/release/Illegal-Services/Illegal_Services.svg?logoWidth=40)](https://github.com/Illegal-Services/Illegal_Services/releases/tag/Latest)
+[![GitHub version](https://img.shields.io/github/v/release/Illegal-Services/Illegal_Services.svg)](https://github.com/Illegal-Services/Illegal_Services/releases/tag/Latest)
 &#8226;
 [![Downloads](https://img.shields.io/github/downloads/Illegal-Services/Illegal_Services/total?label=Downloads&cacheSeconds=3600)](https://github.com/Illegal-Services/Illegal_Services/releases/tag/Latest)
 &#8226;
@@ -12,7 +12,7 @@
 &#8226;
 [![Twitter](https://img.shields.io/twitter/follow/illegalservices?cacheSeconds=3600)](https://twitter.com/illegalservices)
 &#8226;
-[![telegram chat](https://img.shields.io/badge/Support_Chat-Telegram-blue.svg?style=flat-square)](https://t.me/illegal_services_forum)
+[![Telegram](https://img.shields.io/badge/Support_Chat-Telegram-blue.svg)](https://t.me/illegal_services_forum)
 &#8226;
 
 </div><hr>
