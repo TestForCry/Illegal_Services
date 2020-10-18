@@ -8,11 +8,12 @@
 &#8226;
 [![Downloads](https://img.shields.io/github/downloads/Illegal-Services/Illegal_Services/total?label=Downloads&cacheSeconds=3600)](https://github.com/Illegal-Services/Illegal_Services/releases/download/Latest/IS.Setup.exe)
 &#8226;
+[![Telegram](https://img.shields.io/badge/Telegram-Illegal%20Services-28a8e9?logo=telegram&labelColor=28a8e9)](https://t.me/illegal_services_forum)
+&#8226;
 [![Discord](https://img.shields.io/badge/Discord-Program%20Dream-7389D8?logo=discord&labelColor=6A7EC2)](https://discord.gg/eCMBHUB)
 &#8226;
 [![Twitter](https://img.shields.io/twitter/follow/illegalservices?cacheSeconds=3600)](https://twitter.com/illegalservices)
 &#8226;
-[![Telegram](https://img.shields.io/badge/Telegram-Illegal Services-28a8e9?logo=telegram&labelColor=28a8e9)](https://t.me/illegal_services_forum)
 
 </div><hr>
 
