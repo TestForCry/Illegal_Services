@@ -3,10 +3,15 @@
 <hr>
   
 [![GitHub version](https://img.shields.io/github/v/release/Illegal-Services/Illegal_Services.svg)](https://github.com/Illegal-Services/Illegal_Services/releases/tag/Latest)
-[![Downloads](https://img.shields.io/github/downloads/Illegal-Services/Illegal_Services/total?label=Downloads)](https://github.com/Illegal-Services/Illegal_Services/releases/tag/Latest)
+&#8226;
+[![Downloads](https://img.shields.io/github/downloads/Illegal-Services/Illegal_Services/total?label=Downloads&cacheSeconds=3600)](https://github.com/Illegal-Services/Illegal_Services/releases/tag/Latest)
+&#8226;
 [![Discord](https://img.shields.io/discord/728958932210679869?label=Discord&cacheSeconds=3600)](https://discord.gg/eCMBHUB)
+&#8226;
 [![Twitter](https://img.shields.io/twitter/follow/illegalservices?cacheSeconds=3600)](https://twitter.com/illegalservices)
+&#8226;
 [![telegram chat](https://img.shields.io/badge/Support_Chat-Telegram-blue.svg?style=flat-square)](https://t.me/illegal_services_forum)
+&#8226;
 
 </div><hr>
 
