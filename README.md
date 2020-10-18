@@ -1,11 +1,12 @@
-<div align="center"># Illegal Services
+<div align="center">
+
+# Illegal Services
 
 <img src="https://i.imgur.com/9iGo7wM.png">
 
 [![GitHub version](https://img.shields.io/github/v/release/Illegal-Services/Illegal_Services.svg)](https://github.com/Illegal-Services/Illegal_Services/releases/tag/Latest)
-</div>
 
-<hr>
+</div><hr>
 
 >  Illegal Service is an application created to facilitate access to the site of illegal downloads: streaming, torrent, direct download, cracks, DDoS. . .
 Indeed, illegal sites must constantly change their domain names to counter government attacks. It's very annoying to have to find them every time.
