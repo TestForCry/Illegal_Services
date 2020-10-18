@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/9iGo7wM.png">
 <div align="center"> &#8226; [Download](https://github.com/Illegal-Services/Illegal_Services/releases/tag/Latest) &#8226; </br></div>
-[Download](https://github.com/Illegal-Services/Illegal_Services/releases/tag/Latest)
+[Lets go to Quora](https://www.quora.com)
 <hr>
 
 >  Illegal Service is an application created to facilitate access to the site of illegal downloads: streaming, torrent, direct download, cracks, DDoS. . .
