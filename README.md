@@ -13,7 +13,6 @@
 [![Discord](https://img.shields.io/badge/Discord-Program%20Dream-7389D8?logo=discord&labelColor=6A7EC2)](https://discord.gg/eCMBHUB)
 &#8226;
 [![Twitter](https://img.shields.io/twitter/follow/illegalservices?cacheSeconds=3600)](https://twitter.com/illegalservices)
-&#8226;
 
 </div><hr>
 
