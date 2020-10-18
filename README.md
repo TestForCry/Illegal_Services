@@ -4,8 +4,6 @@
 
 [![GitHub last version](https://img.shields.io/badge/GithHub-Download%20Last%20Version-2b3137?logo=Github&labelColor=2b3137)](https://github.com/Illegal-Services/Illegal_Services/releases/download/Latest/IS.Setup.exe)
 
-<img src="https://i.imgur.com/0Qu3mcj.png">
-
 <img src="https://i.imgur.com/TGZLTC8.png">
 
 [![Telegram](https://img.shields.io/badge/Telegram-Illegal%20Services-28a8e9?logo=telegram&labelColor=28a8e9)](https://t.me/illegal_services_forum)
