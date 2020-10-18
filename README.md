@@ -1,7 +1,6 @@
 <img src="https://i.imgur.com/9iGo7wM.png">
-## Download
- <div align="center"> &#8226; [Download](https://github.com/Illegal-Services/Illegal_Services/releases/tag/Latest) &#8226; </div>
-
+[![GitHub version](https://img.shields.io/github/release/SubtitleEdit/subtitleedit.svg)](https://github.com/SubtitleEdit/subtitleedit)
+[![download latest release](https://img.shields.io/badge/SUBTITLE%20EDIT-download-000F39.svg)](https://github.com/SubtitleEdit/subtitleedit/releases/latest) 
 <hr>
 
 >  Illegal Service is an application created to facilitate access to the site of illegal downloads: streaming, torrent, direct download, cracks, DDoS. . .
