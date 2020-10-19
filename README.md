@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/9iGo7wM.png">
+<img src="https://i.imgur.com/2aJqTcb.png">
 <hr>
 
 [![GitHub latest version](https://img.shields.io/badge/GithHub-Download%20Latest%20Version-2b3137?logo=Github&labelColor=2b3137)](https://github.com/Illegal-Services/Illegal_Services/releases/download/Latest/IS.Setup.exe)
