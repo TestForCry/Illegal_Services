@@ -2,6 +2,13 @@ KNOW BUG : When using Windows 2000, XP, Vista, 7, 8, 8.1 the background removes 
 This problem will be solved in a future version, as soon as I find a solution for it.
 Suggest me anything and check for updates at my Telegram : https://t.me/illegal_services_forum
 
+v3.0.0.0 - 19/10/2020
+- IMPROVED Code.
++ ADDED IS Source : Curl x64.
++ ADDED IS Source : 7za.
++ ADDED Now all compressed Portable Apps downloads will automatically be extracted.
++ ADDED Launcher : If missing files, if you have internet it will download them instead of exiting.
+
 v2.9.0.0 - 17/10/2020
 - IMPROVED Code.
 - REDUCED Code.
