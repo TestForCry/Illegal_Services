@@ -79,7 +79,6 @@ extratorrent.ag
 yts.mx
 eztv.io
 ;;nyaa.si
-horriblesubs.info
 yggtorrent.si
 www.oxtorrent.cc
 www.torrent9.gg
