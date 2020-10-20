@@ -72,14 +72,12 @@ hentaihaven.org
 ;;TORRENTING
 1337x.to
 thepiratebay.org
-rarbgaccessed.org
+rarbg.to
 www.torrentfunk2.com
 ;;torrentgalaxy.to
-extratorrent.ag
 yts.mx
 eztv.io
 ;;nyaa.si
-horriblesubs.info
 yggtorrent.si
 www.oxtorrent.cc
 www.torrent9.gg
@@ -149,7 +147,7 @@ www.stressthem.to
 ;;instant-stresser.com
 freeboot.to
 stresser.net
-anonboot.com
+;;anonboot.com
 ;;thunderstresser.me
 freestresser.to
 stressing.ninja
