@@ -75,7 +75,6 @@ thepiratebay.org
 rarbgaccessed.org
 www.torrentfunk2.com
 ;;torrentgalaxy.to
-extratorrent.ag
 yts.mx
 eztv.io
 ;;nyaa.si
