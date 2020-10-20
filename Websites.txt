@@ -147,7 +147,7 @@ www.stressthem.to
 ;;instant-stresser.com
 freeboot.to
 stresser.net
-anonboot.com
+;;anonboot.com
 ;;thunderstresser.me
 freestresser.to
 stressing.ninja
