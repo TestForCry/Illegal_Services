@@ -125,7 +125,7 @@ pcgamestorrents.com
 www.mrpcgamer.com
 repack-games.com
 skidrowcodex.co
-fitgirl-repacks.site
+;;fitgirl-repacks.site
 v.xatab-repack.net
 repack-mechanics.com
 www.blackboxrepack.com
