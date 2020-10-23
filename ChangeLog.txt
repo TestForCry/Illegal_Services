@@ -2,6 +2,18 @@ KNOW BUG : When using Windows 2000, XP, Vista, 7, 8, 8.1 the background removes 
 This problem will be solved in a future version, as soon as I find a solution for it.
 Suggest me anything and check for updates at my Telegram : https://t.me/illegal_services_forum
 
+v3.1.0.0 - 23/10/2020
+- IMPROVED Code.
+- REDUCED Code. (~75 ko) (a thank to sintrode for the help)
++ UPTADED Torrenting : https://rarbg.to/
++ ADDED Rose voice assistant. (thank you so much <Tim> and also a thank to sintrode for the help)
++ ADDED Torrent Proxy's : https://unblocktorrent.com/
++ ADDED IS Source : Speak
++ ADDED Settings : Scan down websites.
+- REMOVED Launcher : Scan down websites.
+- REMOVED Torrenting : https://extratorrent.ag/ (closed)
+- REMOVED Torrenting : https://horriblesubs.info/ (closed)
+
 v3.0.0.0 - 19/10/2020
 - IMPROVED Code.
 + ADDED IS Source : Curl x64.
@@ -158,9 +170,9 @@ v2.4.0.0 - 25/08/2020
 - FIXED HELP (Main Menu) : English language was missing some line return's.
 + UPDATED Setup Eula.
 + UPDATED Streaming FR : https://animecomplet.co
-+ UPDATED Torrent Proxy's  : https://proxybay.gdn/
-+ UPDATED Torrent Proxy's  : https://unblockit.top/
-+ ADDED Torrent Proxy's  : https://unblockproject.uno/
++ UPDATED Torrent Proxy's : https://proxybay.gdn/
++ UPDATED Torrent Proxy's : https://unblockit.top/
++ ADDED Torrent Proxy's : https://unblockproject.uno/
 + ADDED Streaming FR : https://wvw.streamfilm.cc/
 + ADDED Streaming FR : https://voir.lesseriestreaming.com/
 + ADDED Streaming FR : https://voirseries.tv/
@@ -458,7 +470,7 @@ v1.6.0.0 - 08/07/2020
 - REMOVED Streaming : https://wvw.papstream.cc/ (Scam)
 - REMOVED Streaming : https://www.papystreaming.so/ (Scam)
 - REMOVED Streaming : https://wwv.stream-island.org/ (Scam)
-- REMOVED Torrent Proxy : https://thekickasstorrents.com/ (Scam)
+- REMOVED Torrent Proxy's : https://thekickasstorrents.com/ (Scam)
 - REMOVED Windows : https://novelsghar.com/ (Outdated)
 - REMOVED Windows : https://install.lctutors.com.br (Outdated)
 - REMOVED Denial Of Services : https://fasthub.pw/ (Dead)
