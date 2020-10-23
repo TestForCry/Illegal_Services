@@ -2,7 +2,7 @@
 
 - Direct Download : Download files to crack any applications / films / series / animes or anything that is simply downloadable.
 
-- Streaming VF : Watch in a video stream flux any films / series / animes trought Internet for free.
+- Streaming VF : Watch in a video stream flux any films / series / animes through Internet for free.
 
 - Torrenting : Download .torrent files to crack any applications / films / series / animes or anything that is simply downloadable.
 You need an cross-platform BitTorrent client in order to use .torrent files. Exemple : Deluge, qBittorent, etc . . .
@@ -11,29 +11,29 @@ You need an cross-platform BitTorrent client in order to use .torrent files. Exe
 
 - Android Cracks : Download files to crack any any Android APK's.
 
-- Windows Privacy/Telemetry : Allow you to better and easily manage your Windows privacy settings.
+- Doxing : Allow you to retrieve information about your victim as well as advanced image or web searches.
 
 - YouTube DL : Download music or video from internet and convert them to any format on your computer.
 
-- IP Denial of Services (DDoS) : A list of free websites that allow you to take your target's router offline using their IP address and Port.
+- IP Denial of Services (DDoS) : Display a list of free websites that allows you to take your target's router offline using their IP address and Port.
 
-- IP Port Scanning : Scan your target's open ports using their IP address.
+- IP Port Scanning : Scan your victim's open ports using their IP address.
 
-- IP Pinger : Check if the IP address of your target receives packets or not using their IP address.
+- IP Adress Lookup : Allows you to geolocate and trace your target using his IP address.
 
-- IP Pinger TCP :  Check if the IP address of your target receives packets or not using their IP address and Port.
+- IP Pinger : Allows you to ping your victim's IP address, so you can check if they are receiving the packets or not.
 
-- IP Adress Lookup : Allows you to trace your target using his IP address.
+- IP Pinger TCP : Allows you to ping your victim's IP address, so you can check whether or not they are receiving packets on the defined port.
 
-- IP Loggers : Allows you to retrieve your target IP address using a false web address.
-
-- Doxing : Allow you to retrieve informations about your target or make image searches.
-
-- Anti Viruses and Malwares : Scan your PC to found malwares / virus / trojan etc . . .
+- IP Loggers : Allows you to retrieve the IP address of your victim, using a hided web address.
 
 - Portable Apps : Download useful little portable applications.
 
-- More Features : Other features features not enough important to be displayed in the Main Menu.
+- More Features : Other features not enough important to be displayed in the Main Menu.
+
+- Credits : Displays all the people who have contributed to the creation of Illegal Services.
+
+- Settings : Allows yous you to change the appearance and behavior of Illegal Services.
 
 
 	Illegale Services description EN :
