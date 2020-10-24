@@ -2,6 +2,9 @@ KNOW BUG : When using Windows 2000, XP, Vista, 7, 8, 8.1 the background removes 
 This problem will be solved in a future version, as soon as I find a solution for it.
 Suggest me anything and check for updates at my Telegram : https://t.me/illegal_services_forum
 
+v3.2.0.0 - 24/10/2020
+- FIXED bugs. (Setup, Youtube DL, Port Scanning)
+
 v3.1.0.0 - 23/10/2020
 - IMPROVED Code.
 - REDUCED Code. (~75 ko) (a thank to sintrode for the help)
