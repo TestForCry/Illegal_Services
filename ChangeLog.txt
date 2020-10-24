@@ -2,6 +2,10 @@ KNOW BUG : When using Windows 2000, XP, Vista, 7, 8, 8.1 the background removes 
 This problem will be solved in a future version, as soon as I find a solution for it.
 Suggest me anything and check for updates at my Telegram : https://t.me/illegal_services_forum
 
+v3.3.0.0 - 24/10/2020
+- FIXED IS Source : speak-en.exe detected by Windows Defender.
+- FIXED YouTube DL : A bug that couldn't change download location.
+
 v3.2.0.0 - 24/10/2020
 - FIXED bugs. (Setup, Youtube DL, Port Scanning)
 
