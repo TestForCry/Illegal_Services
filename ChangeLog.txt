@@ -1,0 +1,530 @@
+KNOW BUG : When using Windows 2000, XP, Vista, 7, 8, 8.1 the background removes itself and when you move the window he reappear.
+This problem will be solved in a future version, as soon as I find a solution for it.
+Suggest me anything and check for updates at my Telegram : https://t.me/illegal_services_forum
+
+v3.3.0.0 - 24/10/2020
+- REDUCED Code.
+- FIXED IS Source : Speak\speak-en.exe detected by Windows Defender.
+- FIXED YouTube DL : A bug that couldn't change download location.
++ ADDED IS Source : Speak\extd.exe
+- REMOVED IS Source : Speak\speak-en.exe
+
+v3.2.0.0 - 24/10/2020
+- FIXED bugs. (Setup, Youtube DL, Port Scanning)
+
+v3.1.0.0 - 23/10/2020
+- IMPROVED Code.
+- REDUCED Code. (~75 ko) (a thank to sintrode for the help)
++ UPTADED Torrenting : https://rarbg.to/
++ ADDED Rose voice assistant. (thank you so much <Tim> and also a thank to sintrode for the help)
++ ADDED Torrent Proxy's : https://unblocktorrent.com/
++ ADDED IS Source : Speak
++ ADDED Settings : Scan down websites.
+- REMOVED Launcher : Scan down websites.
+- REMOVED Torrenting : https://extratorrent.ag/ (closed)
+- REMOVED Torrenting : https://horriblesubs.info/ (closed)
+
+v3.0.0.0 - 19/10/2020
+- IMPROVED Code.
++ ADDED IS Source : Curl x64.
++ ADDED IS Source : 7za.
++ ADDED Now all compressed Portable Apps downloads will automatically be extracted.
++ ADDED Launcher : If missing files, if you have internet it will download them instead of exiting.
+
+v2.9.0.0 - 17/10/2020
+- IMPROVED Code.
+- REDUCED Code.
+- FIXED code.
+- FIXED a bug that where causing internet problem when you launched multiple Illegal Services instances in the same time.
+- FIXED IP Address Lookup : " / characters glitch removed.
+- FIXED IP Address Lookup : https://www.iplocation.net/ not working.
++ UPDATED IS Source : cURL v7.73.0
++ UPDATED Direct Download (DDL) : www.zt-za.com
++ UPDATED Denial Of Services : stresser.net
++ UPDATED Denial Of Services : anonboot.com
++ UPDATED YouTube DL : Now will always download in your personal music folder.
++ ADDED Launcher : Advertisement message.
++ ADDED Direct Download EN : https://anidl.org/
++ ADDED Direct Download EN : https://tb.rg-adguard.net/
++ ADDED Direct Download FR : https://www.wawacity.vip/
++ ADDED Doxing Image Search : https://pimeyes.com/
++ ADDED Denial of Services : https://litestress.com/
++ ADDED Denial of Services : https://str3ssed.co/
++ ADDED Denial of Services : https://thunderstresser.me/
++ ADDED Denial of Services : https://freeipstresser.net/
+- REMOVED Denial Of Services : https://venomstress.nl
+
+v2.8.0.0 - 13/10/2020
+- IMPROVED Code.
+- FIXED a bug with the setup that where creating temporary files without deleting them. (a thank to anic17)
+- FIXED a bug that where deleting all .exe and .zip from Illegal Services install folder.
+- FIXED Launcher : Auto Updater not working.
+- FIXED IP Adress Lookup : Problem when city's where not fully displayed.
++ UPDATED Portable Apps : Windows Update MiniTool
+- FIXED More Features : FreeBooter not working.
++ UPDATED Portable Apps : Windows Privacy Dashboard
++ UPDATED Portable Apps : Microsoft Safety Scanner
++ UPDATED Portable Apps : Crystal Disk Info
++ ADDED Portable Apps Windows and Office Cracks : AAct
+
+v2.7.0.0 - 09/10/2020
+- IMPROVED Code.(a thank to sintrode)
+- REDUCED Code.
+- FIXED a bug that where creating temporary files without deleting them. (thank you so much anic17 for the big help)
+- FIXED Torrenting : https://1337x.to/ not working.
+- FIXED IP Port Scanning : https://www.adminsub.net/ not working.
+- FIXED IP Lookup not working. (thank you so much anic17 for the big help)
+- FIXED Portable Apps : Windows Privacy Dashboard not working. (a thank to Rose who reminded me)
+- FIXED some error messages.
++ ADDED more error messages.
++ ADDED Launcher Auto Updater.
++ ADDED Main Menu : More Features.
++ ADDED More Options : Windows Repair
++ ADDED More Options : Windows Tweaks
++ ADDED More Options : Game Booster
++ ADDED More Options : FreeBooter
++ ADDED Portable Apps Drivers : AMD Slimmer
++ ADDED Portable Apps Anti Viruses and Malwares : Batch Antivirus
++ UPDATED Compiler Version.
++ UPDATED IS Source : youtube-dl 2020.09.20
++ UPDATED Main Menu : Credits
++ UPDATED Streaming FR : https://libertyvf.bz/
++ UPDATED Streaming FR : https://wwv.streamfilm.cc/
++ UPDATED Streaming FR : https://animecomplet.com/
++ UPDATED IP Lookup : Mobile (cellular) connection (thank you so much anic17 for the big help)
++ UPDATED IP Lookup : Proxy, VPN or Tor exit address (thank you so much anic17 for the big help)
++ UPDATED IP Lookup : Hosting, colocated or data center (thank you so much anic17 for the big help)
++ UPDATED Portable Apps : Ccleaner v5.72.7994
++ UPDATED Portable Apps : Driver Store Explorer v0.11.42
++ UPDATED Portable Apps : MSI Util v3
++ UPDATED Portable Apps : Windows Repair AIO v4.9.5
++ UPDATED Portable Apps : Crystal Disk Info v8.8.9
++ UPDATED Portable Apps : Everything v1.4.1.992
++ UPDATED Portable Apps : Glary Utilities Crack
++ UPDATED Portable Apps : Windows and Office Cracks
+- REMOVED Launcher : Checking your internet connection . . . (Code still present in "Searching for a new update . . .")
+
+v2.6.0.0 - 18/09/2020
+- IMPROVED Code. (All file deletion are now folder sensitive)
+- IMPROVED Code. (All .txt logs behave more smart now)
++ UPDATED IS Source : youtube-dl 2020.09.14
++ UPDATED Direct Download : https://www.annuaire--telechargement.com/
++ UPDATED Streaming FR : https://gum-gum-streaming.com/
++ UPDATED Streaming EN : https://www.uwatchfree.mx/
++ UPDATED Portable Apps : Ccleaner v5.71.7971
++ UPDATED Portable Apps : Display Driver Uninstaller v18.0.3.2
++ UPDATED Portable Apps : Driver Store Explorer v0.11.26.zip
++ UPDATED Portable Apps : MSRT x64 v1.323.1398.0 / x86 v1.323.1379.0
++ UPDATED Portable Apps : Crystal Disk Info to v8.8.7
++ ADDED Streaming FR : https://www6.filmstreaming.to/
++ ADDED Streaming FR : https://vostanime.org/
++ ADDED Streaming FR : https://dbanimes.com/
++ ADDED Torrent Searching : https://torrentz2k.xyz/
++ ADDED Torrent Searching : https://idope.se/
++ ADDED Torrent Proxy's : https://torrents.io/
++ ADDED Cracked Windows apps : https://igg-games.com/
++ ADDED Cracked Windows apps : https://pcgamestorrents.com/
++ ADDED Cracked Windows apps : https://www.mrpcgamer.com/
++ ADDED Cracked Windows apps : https://skidrowcodex.co/
++ ADDED Cracked Windows apps : https://skidrowcodexgames.com/
+- REMOVED Streaming FR : https://anime-anime.fr/ (Clone of https://www.gum-gum-streaming.co/)
+- REMOVED Streaming FR : https://www.full-anime.fr/ (Clone of https://www.gum-gum-streaming.co/)
+- REMOVED Streaming FR : https://www.wakanim.tv/ (Paid website)
+- REMOVED Streaming EN : https://popcornflix.io/ (There's not a lot of films available)
+- REMOVED Torrent Searching : https://1337x.to/ (Now only show in Torrenting)
+- REMOVED Cracked Android APK's : https://bitapk.com/
+
+v2.5.0.0 - 13/09/2020
+- IMPROVED and REDUCED code. (thank you so much anic17 and sintrode for the big help)
+- IMPROVED time for Launcher. (thank you so much anic17 for the big help)
+- FIXED a bug with the display of the arrows. (changed the arrow style)
+- FIXED all bugs in Portable Apps.
+- FIXED YouTube DL : .webm not working.
+- FIXED IP Port Scanning : NMAP now only show opened ports. (before it was also showing CLOSED one's)
++ UPDATED Main Menu.
++ UPDATED Streaming EN : https://animedao.to/
++ UPDATED Streaming EN : https://www.uwatchfree.ag/
++ UPDATED Torrenting : https://torrentz2.is/
++ UPDATED Denial Of Services : https://anonboot.net/
++ UPDATED Portable Apps : Windows Spy Blocker v4.33.1
++ UPDATED IS Source : youtube-dl 2020.09.06
++ ADDED curl folder for IS Source. (thank you so much sintrode for the big help)
++ ADDED New installation prompt window syle.
++ ADDED YouTube DL : BEST
++ ADDED Cracked Windows apps : http://www.intercambiosvirtuales.org/
++ ADDED Cracked Windows apps : https://karanpc.com/
++ ADDED Cracked Windows apps : https://free4pc.org/
++ ADDED Cracked Windows apps : https://haxnode.com/
++ ADDED Cracked Windows apps : http://starcrack.net/
++ ADDED Cracked Windows apps : https://crackshash.com/
++ ADDED Cracked Windows apps : https://repack-games.com/
++ ADDED Cracked Windows apps : https://fitgirl-repacks.site/
++ ADDED Cracked Windows apps : https://v.xatab-repack.net/
++ ADDED Cracked Windows apps : https://repack-mechanics.com/
++ ADDED Cracked Windows apps : http://www.blackboxrepack.com/
++ ADDED Denial Of Services : https://stresser.net/
+- REMOVED Streaming EN : https://kissanime.pro/
+- REMOVED Cracked Windows apps : https://forum.ru-board.com/
+- REMOVED Denial Of Services : https://str3ssed.co/
+- REMOVED Denial Of Services : https://client.undisclosed.to/
+- REMOVED Denial Of Services : https://quickboot.ru
+- REMOVED Torrenting : https://newkatcr.co/ (dead)
+- REMOVED Torrent Searching : https://www.xtorx.com/ (still work but dead)
+- REMOVED wget.exe from IS Source.
+
+v2.4.0.0 - 25/08/2020
+- REDUCED Code.
+- IMPROVED code : Launcher updater. (thank you so much <Tim> and anic17 for the big help)
+- FIXED Change background transparency : Now have error messages if not a correct value.
+- FIXED Doxing : Dox Tool v2 not working.
+- FIXED HELP (Main Menu) : English language was missing some line return's.
++ UPDATED Setup Eula.
++ UPDATED Streaming FR : https://animecomplet.co
++ UPDATED Torrent Proxy's : https://proxybay.gdn/
++ UPDATED Torrent Proxy's : https://unblockit.top/
++ ADDED Torrent Proxy's : https://unblockproject.uno/
++ ADDED Streaming FR : https://wvw.streamfilm.cc/
++ ADDED Streaming FR : https://voir.lesseriestreaming.com/
++ ADDED Streaming FR : https://voirseries.tv/
++ ADDED Streaming FR : https://streaming-integrale.com/
++ ADDED Streaming FR : https://www.gum-gum-streaming.co/
++ ADDED Streaming FR : https://www.fullanimefr.com/
++ ADDED Streaming FR : https://www.manga-vf.fr/
++ ADDED Streaming FR : https://anime-anime.fr/
++ ADDED Streaming FR : https://www.full-anime.fr/
++ ADDED Streaming FR : https://www.wakanim.tv/
++ ADDED Streaming EN : https://www.primewire.li/
++ ADDED Streaming EN : https://losmovies.to/
++ ADDED Streaming EN : https://watch-serieshd.cc/
++ ADDED Streaming EN : https://123movies.co/
++ ADDED Streaming EN : https://gomovie.co/
++ ADDED Streaming EN : https://primewire.pw/
++ ADDED Streaming EN : https://gomovies.re/
++ ADDED Streaming EN : https://gomovies-online.me/
++ ADDED Streaming EN : https://watchseries.movie/
++ ADDED Streaming EN : https://f2movies.to/
++ ADDED Streaming EN : https://solarmovie.to/
++ ADDED Streaming EN : https://fmovies.to/
++ ADDED Streaming EN : https://www.uwatchfree.ai/
++ ADDED Streaming EN : https://123movieshub.tc/
++ ADDED Streaming EN : https://popcornflix.io/
++ ADDED Portable Apps (Anti Viruses and Malwares) : Kaspersky KVRT
++ ADDED Portable Apps (Anti Viruses and Malwares) : Kaspersky TDSSKiller
++ ADDED Portable Apps (Anti Viruses and Malwares) : Microsoft Safety Scanner
++ ADDED Portable Apps : Tweakers
++ ADDED Portable Apps : Cleaners
++ ADDED Portable Apps : Updaters/Drivers
++ ADDED Portable Apps : Drivers
++ ADDED Portable Apps : Other's
++ ADDED Portable Apps : Windows and Office Cracks
++ ADDED QuickEdit disabled. (buggy)
++ ADDED "batool.exe" for IS Source.
+- REMOVED "batbox.exe" from IS Source.
+
+v2.3.0.0 - 19/08/2020
+- IMPROVED Code.
+- IMPROVED time for Launcher down websites scan.
+- IMPROVED code of YouTube DL.
+- FIXED YouTube DL that does not open the output folder once the download is complete. (thank you so much Nick_Z for solving that problem)
+- FIXED YouTube DL : At the first launch, the output folder was not working.
+- FIXED YouTube DL : .FLV and .avi not working.
+- FIXED Main Menu : The username was deplacing a special character from the GUI.
+- FIXED Main Menu : When wrong choice, it was creating a file called "nu".
+- FIXED code of Architecture detection.
++ UPDATED IS Source : ffmpeg.exe
++ UPDATED Torrenting : https://www.oxtorrent.cc/
++ UPDATED Torrenting : https://www.torrent9.gg/
++ UPDATED Torrent Proxy's  : https://torrentmirror.fun/
++ ADDED Streaming EN : https://hentaihaven.org/
++ ADDED Launcher : Checking new updates . . .
++ ADDED more error messages.
++ ADDED more translation.
+- REMOVED launcher : Detecting Windows version . . .
+- REMOVED Torrent Searching : https://veoble.com/ (still work but dead since 2015)
+- REMOVED Torrent Searching : http://www.toorgle.net (scam)
+
+v2.2.0.0 - 16/08/2020
+- FIXED IP Port Scanning not working. (sorry, it was my fault)
+- FIXED "Access is denied." in NMAP IP Port Scanning. (when my application was not working as an administrator, there was an error if the UAC was enabled)
+- FIXED a bug in the Main Menu where it said you were using v2.0
+- FIXED a bug in the Setup that was Removing Portable_Apps after an reinstall or upgrade.
++ UPDATED Miscellaneous in Main Menu. (for more Portable Applications)
++ UPDATED Main Menu HELP
++ UPDATED Tutorial.txt
++ UPDATED Setup Eula.
++ UPDATED Settings : Background n°5
++ UPDATED Settings : Background n°6
++ ADDED IS Source : Administrator manifest. (to fix Port Scanner "Access is denied.")
++ ADDED Portable Apps in Main Menu. (for more Portable Applications)
+- REMOVED Ansicon for Windows 10. (for old Windows it will download it)
+
+v2.1.0.0 - 14/08/2020
+- REDUCED some code.
+- IMPROVED code of Architecture detection.
+- FIXED No error message displayed when nothing has been selected and the enter key on the keypad is pressed.
+- FIXED a bug when apps where creating they're files into Illegal Services folder.
+- FIXED Windows Privacy/Telemetry : "blackbird.exe"
+- FIXED Settings : Background n°5 not working.
+- FIXED Settings : Background n°4 missing.
++ UPDATED IP Port Scanning : Most Used Port Scan here (also now support x32 bits)
++ UPDATED Main Menu : View My Computer compenments
++ UPDATED Anti Viruses and Malwares : Rogue Killer
++ UPDATED Anti Viruses and Malwares : ADW Cleaner
++ UPDATED Anti Viruses and Malwares : ZHP Cleaner
++ UPDATED Windows Privacy/Telemetry : Windows Spy Blocker
++ UPDATED Windows Privacy/Telemetry : Do Not Spy 10
++ UPDATED Windows Privacy/Telemetry : OOSU10
++ UPDATED Denial of Services : https://freeboot.to/
++ UPDATED Now external files will be downloaded from GitHub and will go to "Portable_Apps".
++ ADDED YouTube DL in Main Menu.
++ ADDED Doxing : Metadata Search Engines.
++ ADDED Doxing : https://searx.neocities.org/
++ ADDED Doxing : https://yippy.com/
++ ADDED Doxing : https://www.dogpile.com/
++ ADDED Doxing : https://www.metacrawler.com/
++ ADDED Doxing : http://www.delta-search.com/
++ ADDED Doxing : https://www.excite.co.jp/
++ ADDED Doxing : https://www.google.com/advanced_image_search
++ ADDED Doxing : https://www.toolsbug.com/youtube-video-tag-extractor.php
++ ADDED Doxing : http://online-free-tools.com/en/youtube_video_tags_extract_url
++ ADDED Doxing : https://ytubetool.com/
++ ADDED Streaming EN in Streaming.
++ ADDED Streaming EN : https://www2.f2movies.to/
++ ADDED Streaming EN : https://www.watchepisodeseries1.com/
++ ADDED Streaming EN : https://www2.gogoanime.video/
++ ADDED Torrenting : https://extratorrent.ag/
++ ADDED Settings : Disable Launcher downed websites scan.
++ ADDED Now can choice "B"="BACK" to reduce your time; same for "H"="HELP" and "I"="INSTALL".
++ ADDED Launcher : Architecture detection.
++ ADDED Settings : Save your settings in "Settings.ini".
++ ADDED TCP_Port_Scanner.exe for IS Source.
++ ADDED Fart.exe to IS Source.
++ ADDED IP Address Lookup : https://dnschecker.org/
++ ADDED IP Port Scanning : NPCAP Install.
++ ADDED TCP_Port_Scanner.exe for IS Source.
+- REMOVED Windows Privacy/Telemetry : Debotnet (too much difficult to download)
+- REMOVED TCP_Port_Scanner_v1.exe for IS Source.
+- REMOVED TCP_Port_Scanner_v2.exe for IS Source.
+- REMOVED IP Address Lookup : https://whatismyipaddress.com/ (too much of telemetry)
+- REMOVED IP Address Lookup : https://iplogger.org/ (not good enought)
+- REMOVED Denial Of Services : https://quickboot.ru/ (not working anymore)
+- REMOVED Denial Of Services : https://str3ssed.co/ (not free anymore)
+- REMOVED IP Port Scanning : Most Used Port Scan here v2
+- REMOVED IP Port Scanning : www.ipvoid.com
+- REMOVED IP Port Scanning : pentest-tools.com
+- REMOVED IP Port Scanning : hidemy.name
+- REMOVED IP Port Scanning : hackertarget.com
+- REMOVED IP Port Scanning : www.yougetsignal.com
+- REMOVED IP Port Scanning : Custom Port Scan here
+- REMOVED "Pscan.exe". (NMAP replaced it because Pscan wath not compatible with x32 bits)
+
+v2.0.0.0 - 04/08/2020
+- IMPROVED Code of Illegal Services.
+- IMPROVED Code of the launcher.
+- IMPROVED Code of the IP Pinger.
+- REDUCED the time for error messages display.
+- FIXED a bug in the setup that was using old "Launcher.exe" for the setup icon.
+- FIXED A bug when the colors are still displayed after changing submenu in Windows 2000, XP, Vista, 7, 8, 8.1 versions.
+- FIXED Rescaling the window moves automatically the choice to the left.
+- FIXED error messages display that could be skipped.
+- FIXED Some error messages.
+- FIXED Doxing problems. (thanks Rosalyn)
+- FIXED IPPinger not working.
+- FIXED IPLookup not working.
+- FIXED Windows Privacy/Telemetry : BlackBird.exe Windows Defender false positive detection.
+- FIXED Windows Privacy/Telemetry : BlackBird.exe x86 not working.
++ UPDATED all Windows GUI and support.
++ UPDATED all link Addresses.
++ ADDED Cursor that hide itself when he's not usefull.
++ ADDED Now Illegal Servcies could (because not tested by myself) also support Windows 2000, XP and Vista versions.
++ ADDED "ansicon.exe" for IS Source.
++ ADDED "ANSI32.dll" for IS Source.
++ ADDED "batbox.exe" for IS Source.
++ ADDED "cmdwiz.exe" for IS Source.
++ ADDED "cmdbkg.exe" for IS Source.
++ ADDED "Our telegram group" in Main Menu.
++ ADDED Direct Download : https://libertyvf.tv/
++ ADDED Torrent Proxy's : https://proxygalaxy.pw/
++ ADDED Windows : https://fileriver.net/
++ ADDED Denial of Services : https://anonboot.com/
++ ADDED Short URL's : https://tiny.cc/
++ ADDED Doxing Image Research : https://www.pic2map.com/
++ ADDED Doxing Image Research : https://onlineexifviewer.com/
++ ADDED Doxing Image Research : https://www.metadata2go.com/
++ ADDED Doxing : https://www.startpage.com/do/advanced-search
++ ADDED more translation.
++ ADDED Multiple choices.
+- REMOVED Torrenting :  https://www.zetorrents.io (old clone of OXTORRENT)
+- REMOVED "EXIT". (Not usefull since you already can exit with Windows)
+- REMOVED Torrent Searching : https://bitcq.com/ (Dead)
+- REMOVED Denial Of Services : https://minesearch.rip/ (dead)
+- REMOVED Denial Of Services : https://instress.me/ (dead)
+- REMOVED "Tutorial" Sub Menu in Torrenting. (replaced by "HELP")
+- REMOVED "Illegal_Services_win.exe" for IS Source. (Not needed anymore since the new improved code)
+- REMOVED "Launcher.exe" for IS Source. (Not needed anymore since the new improved code)
+- REMOVED "IPPinger.bat" from IS Source. (Not needed anymore since the new improved code)
+- REMOVED "cecho.exe" from IS Source. (Not needed anymore since the new improved code)
+- REMOVED "sfk.exe" from IS Source. (Not needed anymore since the new improved code)
+- REMOVED all "menu_.py" files from IS Source. (Not needed anymore since the new improved code)
+- REMOVED Doxing Image Research : http://metapicz.com/ (too much of telemetry)
+## EN : I know that everyone will hate it but I removed all websites with included scam pubs inside of theire sources :
+## FR : Tout le monde va détester, mais j'ai supprimé tous les sites web qui comportaient des pubs d'escroquerie dans leurs sources :
+- REMOVED Streaming : https://www.serie-streaming.la (scam)
+- REMOVED Streaming : https://wwv.papystreaming.is/ (scam)
+- REMOVED Streaming : https://illimitestreaming.tv (scam)
+- REMOVED Streaming : https://sc.stream-complet.co (scam)
+- REMOVED Streaming : voir.lesseriestreaming.com (scam)
+- REMOVED Streaming : https://www.gratflix.com (scam)
+- REMOVED Streaming : https://wiflix.net (scam)
+- REMOVED Streaming : https://filmvf.in (scam)
+- REMOVED Streaming : https://hdss.to (scam)
+
+v1.9.0.0 - 22/07/2020
+- FIXED An issue advertising at false positive downed websites in the Launcher.
+- IMPROVED Code. (Language detection)
+- IMPROVED Code. (Launcher errors)
++ ADDED Launcher Internet detection (Skip WebSites detection error messages if u don't have internet)
++ ADDED Denial Of Services : https://str3ssed.co/
++ ADDED Denial Of Services : https://instress.me/
++ ADDED Short URL's in IPLoggers.
++ ADDED Short URL's : https://bitly.com/
++ ADDED Short URL's : https://shorturl.me/
++ ADDED Short URL's : https://shorturl.com/
++ ADDED Short URL's : https://www.shorturl.at/
++ ADDED Short URL's : https://kutt.it/
++ ADDED Doxing in Main Menu.
++ ADDED Doxing Image Search : https://images.google.com/
++ ADDED Doxing Image Search : https://www.bing.com/?scope=images
++ ADDED Doxing Image Search : https://yandex.com/images/
++ ADDED Doxing Image Search : https://image.baidu.com/
++ ADDED Doxing Image Search : https://pic.sogou.com/
++ ADDED Doxing Image Research : https://metapicz.com/
++ ADDED Doxing Advanced Seach Engine : https://www.google.com/advanced_search
++ ADDED Doxing Usernames : Dox Tool V2.exe
++ ADDED Doxing Usernames : https://checkusernames.com/
++ ADDED Doxing Usernames : https://knowem.com/
+
+v1.8.0.0 - 21/07/2020
+- IMPROVED How websites and applications opens.
+- FIXED : IP Tracker (WebSite) error who redirected on Port Scanner.
+- FIXED : IP Tracker (Here) error.
+- FIXED Windows Defender false positive detection.
+- FIXED Setup "uninstall"  button.
++ UPDATED IPPinger.
++ ADDED cecho.exe
++ ADDED Downed WebSites detection to Launcher.
++ ADDED Denial Of Services : https://freestresser.to/
++ ADDED Anti-Virus Detection in Main Menu.
++ ADDED Windows Privacy in Main Menu.
++ ADDED Windows Privacy : OOSU10 (Win 10)
++ ADDED Windows Privacy : Ashampoo AntiSpy (Win 10)
++ ADDED Windows Privacy : Do Not Spy 10
++ ADDED Windows Privacy : Windows Privacy Destroyer
++ ADDED Windows Privacy : Windows 10 Privacy
++ ADDED Windows Privacy : Windows Spy Blocker
++ ADDED Windows Privacy : Destroy Windows Spying
++ ADDED Windows Privacy : DebotNet
++ ADDED Windows Privacy : BlackbBird
++ ADDED Anti-Virus Detection : ADW Cleaner.
++ ADDED Anti-Virus Detection : ZHP Cleaner.
++ ADDED Anti-Virus Detection : Rogue Killer.
++ ADDED Anti-Virus Detection : No Bot.
++ ADDED Android : https://bitapk.com/
+- REMOVED Denial Of Services : https://torstress.com/ (Dead)
+
+v1.7.0.0 - 14/07/2020
+- CUSTOMIZED Main Menu.
+- FIXED : Windows Smart Screen "Unknown Publisher" message at opening.
+- FIXED : Windows Defender false positive virus detection for "IS Setup.exe" .
++ UPDATED all link Addresses.
++ ADDED : Signed all my files.
++ ADDED an Setup to install or uninstall Illegal Services.
++ ADDED Direct Download (DDL) in Main Menu.
++ ADDED Portable in WINDOWS.
++ ADDED Streaming : http://www.anime-ultime.net/ (v4)
++ ADDED Streaming : https://v5.anime-ultime.net/ (v5)
++ ADDED Torrent Searching : https://torrentproject2.com/
++ ADDED Torrent Searching : https://isohunt.app/
++ ADDED Direct Download : https://www.tirexo.com/
++ ADDED Direct Download : https://www.zt-za.com/
++ ADDED Direct Download : https://www.ddl1.best/
++ ADDED Direct Download : https://www.site-de-telechargement.com/
++ ADDED Direct Download : https://www.ddl-is.land/
++ ADDED WINDOWS : https://filecr.com/
++ ADDED WINDOWS : https://crackingpatching.com/
++ ADDED WINDOWS : https://crackzsoft.me/
++ ADDED WINDOWS : https://lostvayne.com/
++ ADDED WINDOWS : https://portableappz.blogspot.com/
+- REMOVED Streaming : https://wwv.cpasbien.to/ (Scam)
+- REMOVED WINDOWS : https://taiphanmempc.net/ (Reuploading)
+- REMOVED WINDOWS : https://rlsbb.ru/ (Dead)
+
+v1.6.0.0 - 08/07/2020
+- CUSTOMIZED Main Menu.
++ UPDATED all link Addresses.
++ UPDATED Most Used Port Scan here.
++ ADDED Automatic computer language detection to display the program in French or English. (Some text is still in English.)
++ ADDED View My Computer compenments.
++ ADDED Streaming : https://hdss.to/
++ ADDED Streaming : https://www.wiflix.net
++ ADDED Streaming : https://time2.watch/
++ ADDED Streaming : https://www.regardergratuit.org/
++ ADDED Streaming : https://wwv.papystreaming.is/
++ ADDED Streaming : https://papystreaming.net/
++ ADDED Streaming : https://www.papystreaming.cc/
++ ADDED Torrenting : https://www.tirexo.com/ (Zone Téchargement v3)
++ ADDED Torrent Searching : https://torrent-paradise.ml/
++ ADDED Windows : https://www.mazterize.com/
++ ADDED Port Scanning : https://portforward.com/ports.htm
+- REMOVED Streaming : https://wvv.voirfilms.club/ (Scam)
+- REMOVED Streaming : https://wvw.papstream.cc/ (Scam)
+- REMOVED Streaming : https://www.papystreaming.so/ (Scam)
+- REMOVED Streaming : https://wwv.stream-island.org/ (Scam)
+- REMOVED Torrent Proxy's : https://thekickasstorrents.com/ (Scam)
+- REMOVED Windows : https://novelsghar.com/ (Outdated)
+- REMOVED Windows : https://install.lctutors.com.br (Outdated)
+- REMOVED Denial Of Services : https://fasthub.pw/ (Dead)
+- REMOVED Denial Of Services : https://stress.to/ (Dead)
+- REMOVED Denial Of Services : https://anonboot.pw/ (Dead)
+
+v1.5.0.0 - 22/06/2020
+- IMPROVED Code.
++ UPDATED .py files for a better design.
++ UPDATED a Launcher (Make the support for Windows 7,8,8.1 ; Also he check files to prevent any errors.)
++ UPDATED a new Port Scanner.
++ UPDATED IP Pinger.
++ UPDATED IP Pinger TCP.
++ UPDATED links for Streaming VF.
++ UPDATED Version Title.
++ UPDATED How IP Lookups links works.
++ ADDED SpeedTest.
++ ADDED Internet DNS Changer.
++ ADDED Internet Optimizer.
+
+v1.4.0.0 - 25/05/2020
+- CUSTOMIZED Main Menu.
+- IMPROVED Code.
+- FIXED a display bug when you enlarge and then shrink the window.
+- FIXED "exit" & "back" command can now be writted with caps.
++ ADDED Main Menu is now auto adjusted for a good window size.
++ ADDED IP Lookup websites.
++ ADDED executable extension.
+
+v1.3.0.0 - 23/05/2020
+- CUSTOMIZED Main Menu.
+- FIXED when clicking any number it will do a random action in the actual page.
+- IMPROVED Code.
++ ADDED Wrong choice messages.
+
+v1.2.0.0 - 23/05/2020
+- CUSTOMIZED Main Menu.
++ ADDED All Sub Menu Named.
++ ADDED Main Menu Rainbow start.
++ ADDED Choice Redirect to internet.
+
+v1.1.0.0 - 22/05/2020
+- CUSTOMIZED Main Menu.
++ ADDED TORRENT : Tutorial.
+
+v1.0.0.0 - 22/05/2020
+Official Release.
