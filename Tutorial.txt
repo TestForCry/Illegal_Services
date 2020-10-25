@@ -5,7 +5,7 @@
 - Streaming VF : Watch in a video stream flux any films / series / animes through Internet for free.
 
 - Torrenting : Download .torrent files to crack any applications / films / series / animes or anything that is simply downloadable.
-You need an cross-platform BitTorrent client in order to use .torrent files. Exemple : Deluge, qBittorent, etc . . .
+You need an cross-platform BitTorrent client in order to use .torrent files. Exemple : qBittorent, Deluge, etc . . .
 
 - Windows Cracks : Download files to crack any Windows executable applications.
 
