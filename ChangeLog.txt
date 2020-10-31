@@ -2,6 +2,21 @@ KNOW BUG : When using Windows 2000, XP, Vista, 7, 8, 8.1 the background removes 
 This problem will be solved in a future version, as soon as I find a solution for it.
 Suggest me anything and check for updates at my Telegram : https://t.me/illegal_services_forum
 
+v3.4.0.0 - 31/10/2020
+- IMPROVED Code.
+- REDUCED Code.
+- FIXED Launcher : Bug that where looping updating.
+- REDUCED Code. (a thank to anic17 and Artanis for the help)
++ ADDED choice verification. (IP Port Scanning) (thank you so much sintrode for the big help)
++ ADDED YouTube DL : Youtube DLC
++ UPDATED Rose voice assistant.
++ UPDATED Portable Apps : DnsJumper (.ini file)
++ UPDATED Portable Apps : Ccleaner v5.73.8130
++ UPDATED Portable Apps : Windows 10 Privacy v3.5.1.0
++ UPDATED Portable Apps : BlackBird v1.0.80.1
++ UPDATED Portable Apps : Windows Repair AIO v4.10.0
++ UPDATED Portable Apps : Process Hacker v3.0.3502
+
 v3.3.0.0 - 24/10/2020
 - REDUCED Code.
 - FIXED IS Source : Speak\speak-en.exe detected by Windows Defender.
@@ -15,7 +30,7 @@ v3.2.0.0 - 24/10/2020
 v3.1.0.0 - 23/10/2020
 - IMPROVED Code.
 - REDUCED Code. (~75 ko) (a thank to sintrode for the help)
-+ UPTADED Torrenting : https://rarbg.to/
++ UPDATED Torrenting : https://rarbg.to/
 + ADDED Rose voice assistant. (thank you so much <Tim> and also a thank to sintrode for the help)
 + ADDED Torrent Proxy's : https://unblocktorrent.com/
 + ADDED IS Source : Speak
