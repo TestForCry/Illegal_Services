@@ -16,7 +16,7 @@ if "%language%"=="EN" echo         [40;36mPlease wait while the downloading . 
 echo:
 echo ==========================================================================================================
 echo [40;31m
-call "Portable_Apps\YouTube-DL\!youtube_dl!.exe" --config-location "Portable_Apps\YouTube-DL" --ffmpeg-location "Portable_Apps\YouTube-DL" --add-metadata %argument0%%argument1%%argument2%%argument3%%argument4% "%choice%"
+call "Portable_Apps\YouTube-DL\%youtube_dl%.exe" --config-location "Portable_Apps\YouTube-DL" --ffmpeg-location "Portable_Apps\YouTube-DL" --add-metadata %argument0%%argument1%%argument2%%argument3%%argument4% "%choice%"
 echo [40;90m
 echo ==========================================================================================================
 echo [40;36m
