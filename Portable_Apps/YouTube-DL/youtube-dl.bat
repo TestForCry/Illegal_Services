@@ -42,5 +42,5 @@ if %errorlevel% NEQ 0 (
 )
 pause >nul 2>&1
 if %errorlevel% NEQ 0 exit
-if defined output if exist "%output%" start "" "explorer.exe" "%output%"
+if defined output if exist "%output%" start /max "" "explorer.exe" "%output%"
 exit
