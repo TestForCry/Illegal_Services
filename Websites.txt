@@ -93,7 +93,7 @@ torrentproject2.com
 isohunt.app
 idope.se
 ;;TORRENTPROXY
-proxybay.gdn
+proxybay.kim
 proxygalaxy.pw
 eztvstatus.com
 unblockit.top
