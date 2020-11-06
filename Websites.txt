@@ -83,7 +83,6 @@ eztv.re
 yggtorrent.si
 www.oxtorrent.cc
 www.torrent9.gg
-;;TORRENTSEARCHING
 torrentz2k.xyz
 torrentz2.is
 torrentseeker.com
@@ -92,7 +91,6 @@ torrent-paradise.ml
 torrentproject2.com
 isohunt.app
 idope.se
-;;TORRENTPROXY
 proxybay.kim
 proxygalaxy.pw
 eztvstatus.com
