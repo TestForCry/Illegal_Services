@@ -75,14 +75,13 @@ rarbg.to
 www.torrentfunk2.com
 ;;torrentgalaxy.to
 yts.mx
-eztv.io
+eztv.re
 ;;nyaa.si
 yggtorrent.si
 www.oxtorrent.cc
 www.torrent9.gg
 ;;TORRENTSEARCHING
 torrentz2k.xyz
-torrents.io
 torrentz2.is
 torrentseeker.com
 snowfl.com
