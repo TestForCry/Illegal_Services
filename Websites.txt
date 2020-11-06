@@ -146,7 +146,7 @@ quez.in
 www.stressthem.to
 ;;instant-stresser.com
 freeboot.to
-stresser.net
+;;stresser.net
 ;;anonboot.com
 ;;thunderstresser.me
 freestresser.to
