@@ -71,6 +71,7 @@ hentaihaven.org
 ;;TORRENTING
 1337x.to
 thepiratebay.org
+kickass.onl
 rarbg.to
 www.torrentfunk2.com
 ;;torrentgalaxy.to
