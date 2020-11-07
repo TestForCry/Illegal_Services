@@ -2,6 +2,32 @@ KNOW BUG : When using Windows 2000, XP, Vista, 7, 8, 8.1 the background removes 
 This problem will be solved in a future version, as soon as I find a solution for it.
 Suggest me anything and check for updates at my Telegram : https://t.me/illegal_services_forum
 
+v3.6.0.0 - 07/11/2020
+- REDUCED Code.
+- FIXED a bug with Rose who where talking in a French-English.
++ ADDED ON/OFF switches instead of enable/disable. (Thanks Agam for the idea)
++ ADDED Main Menu : Frequently Asked Questions. (FAQ)
++ ADDED Torrenting : https://www.limetorrents.info/
++ ADDED Torrenting : https://extratorrents.it/
++ ADDED Denial Of Services : Last updated message.
++ UPDATED IS Source : YouTube DL v2020.11.01.1
++ UPDATED IS Source : NMAP v7.91.0.0
++ UPDATED now open explorer in maximised.
++ UPDATED Torrenting : https://kickass.onl/
++ UPDATED Torrenting : https://eztv.re/
++ UPDATED Torrenting : https://proxybay.kim/
++ UPDATED Portable Apps : Driver Store Explorer v0.11.56
++ UPDATED Portable Apps : Windows Spy Blocker v4.34.0
+- REMOVED Streaming : https://time2watch.io/ (closed)
+- REMOVED Torrenting : https://torrents.io/ (closed)
+- REMOVED Torenting : Torrent Searching. (Still present in Torrenting)
+- REMOVED Torenting : Torrent Proxy's. (Still present in Torrenting)
+
+v3.5.0.0 - 01/11/2020
+- FIXED Code.
++ ADDED choice verification. (IP Lookup) (thank you so much sintrode for the big help)
++ ADDED Settings : Change language to English/French.
+
 v3.4.0.0 - 31/10/2020
 - IMPROVED Code.
 - REDUCED Code.
