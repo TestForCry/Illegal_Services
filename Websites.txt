@@ -1,7 +1,6 @@
 ;;MAINMENU
 github.com
 t.me
-thisdomaindontexistneggalollmfao.com
 ;;DIRECTDOWNLOADFR
 www.tirexo.pro
 www.zt-za.com
