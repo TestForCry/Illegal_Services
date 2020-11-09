@@ -2,14 +2,24 @@ KNOW BUG : When using Windows 2000, XP, Vista, 7, 8, 8.1 the background removes 
 This problem will be solved in a future version, as soon as I find a solution for it.
 Suggest me anything and check for updates at my Telegram : https://t.me/illegal_services_forum
 
+v3.7.0.0 - 09/11/2020
+- IMPROVED Code.
+- FIXED Launcher : Rose was not launching at first startup.
+- FIXED Torrenting : Some bugs.
+- FIXED IP Address Lookup : Lookup an other URL not working.
++ ADDED Doxing : Dox Tool V2 Error Message
++ ADDED IP Denial of Services : https://downed.io/
++ ADDED IP Denial of Services : https://stresslab/
++ ADDED IP Port Scanning : NMAP : Scan with version detection.
+
 v3.6.0.0 - 07/11/2020
 - REDUCED Code.
-- FIXED a bug with Rose who where talking in a French-English.
+- FIXED a bug with Rose who was talking in a French-English.
 + ADDED ON/OFF switches instead of enable/disable. (Thanks Agam for the idea)
 + ADDED Main Menu : Frequently Asked Questions. (FAQ)
 + ADDED Torrenting : https://www.limetorrents.info/
 + ADDED Torrenting : https://extratorrents.it/
-+ ADDED Denial Of Services : Last updated message.
++ ADDED IP Denial of Services : Last updated message.
 + UPDATED IS Source : YouTube DL v2020.11.01.1
 + UPDATED IS Source : NMAP v7.91.0.0
 + UPDATED now open explorer in maximised.
@@ -81,19 +91,19 @@ v2.9.0.0 - 17/10/2020
 - FIXED IP Address Lookup : https://www.iplocation.net/ not working.
 + UPDATED IS Source : cURL v7.73.0
 + UPDATED Direct Download (DDL) : www.zt-za.com
-+ UPDATED Denial Of Services : stresser.net
-+ UPDATED Denial Of Services : anonboot.com
++ UPDATED IP Denial of Services : stresser.net
++ UPDATED IP Denial of Services : anonboot.com
 + UPDATED YouTube DL : Now will always download in your personal music folder.
 + ADDED Launcher : Advertisement message.
 + ADDED Direct Download EN : https://anidl.org/
 + ADDED Direct Download EN : https://tb.rg-adguard.net/
 + ADDED Direct Download FR : https://www.wawacity.vip/
 + ADDED Doxing Image Search : https://pimeyes.com/
-+ ADDED Denial of Services : https://litestress.com/
-+ ADDED Denial of Services : https://str3ssed.co/
-+ ADDED Denial of Services : https://thunderstresser.me/
-+ ADDED Denial of Services : https://freeipstresser.net/
-- REMOVED Denial Of Services : https://venomstress.nl
++ ADDED IP Denial of Services : https://litestress.com/
++ ADDED IP Denial of Services : https://str3ssed.co/
++ ADDED IP Denial of Services : https://thunderstresser.me/
++ ADDED IP Denial of Services : https://freeipstresser.net/
+- REMOVED IP Denial of Services : https://venomstress.nl
 
 v2.8.0.0 - 13/10/2020
 - IMPROVED Code.
@@ -186,7 +196,7 @@ v2.5.0.0 - 13/09/2020
 + UPDATED Streaming EN : https://animedao.to/
 + UPDATED Streaming EN : https://www.uwatchfree.ag/
 + UPDATED Torrenting : https://torrentz2.is/
-+ UPDATED Denial Of Services : https://anonboot.net/
++ UPDATED IP Denial of Services : https://anonboot.net/
 + UPDATED Portable Apps : Windows Spy Blocker v4.33.1
 + UPDATED IS Source : youtube-dl 2020.09.06
 + ADDED curl folder for IS Source. (thank you so much sintrode for the big help)
@@ -203,12 +213,12 @@ v2.5.0.0 - 13/09/2020
 + ADDED Cracked Windows apps : https://v.xatab-repack.net/
 + ADDED Cracked Windows apps : https://repack-mechanics.com/
 + ADDED Cracked Windows apps : http://www.blackboxrepack.com/
-+ ADDED Denial Of Services : https://stresser.net/
++ ADDED IP Denial of Services : https://stresser.net/
 - REMOVED Streaming EN : https://kissanime.pro/
 - REMOVED Cracked Windows apps : https://forum.ru-board.com/
-- REMOVED Denial Of Services : https://str3ssed.co/
-- REMOVED Denial Of Services : https://client.undisclosed.to/
-- REMOVED Denial Of Services : https://quickboot.ru
+- REMOVED IP Denial of Services : https://str3ssed.co/
+- REMOVED IP Denial of Services : https://client.undisclosed.to/
+- REMOVED IP Denial of Services : https://quickboot.ru
 - REMOVED Torrenting : https://newkatcr.co/ (dead)
 - REMOVED Torrent Searching : https://www.xtorx.com/ (still work but dead)
 - REMOVED wget.exe from IS Source.
@@ -315,7 +325,7 @@ v2.1.0.0 - 14/08/2020
 + UPDATED Windows Privacy/Telemetry : Windows Spy Blocker
 + UPDATED Windows Privacy/Telemetry : Do Not Spy 10
 + UPDATED Windows Privacy/Telemetry : OOSU10
-+ UPDATED Denial of Services : https://freeboot.to/
++ UPDATED IP Denial of Services : https://freeboot.to/
 + UPDATED Now external files will be downloaded from GitHub and will go to "Portable_Apps".
 + ADDED YouTube DL in Main Menu.
 + ADDED Doxing : Metadata Search Engines.
@@ -348,8 +358,8 @@ v2.1.0.0 - 14/08/2020
 - REMOVED TCP_Port_Scanner_v2.exe for IS Source.
 - REMOVED IP Address Lookup : https://whatismyipaddress.com/ (too much of telemetry)
 - REMOVED IP Address Lookup : https://iplogger.org/ (not good enought)
-- REMOVED Denial Of Services : https://quickboot.ru/ (not working anymore)
-- REMOVED Denial Of Services : https://str3ssed.co/ (not free anymore)
+- REMOVED IP Denial of Services : https://quickboot.ru/ (not working anymore)
+- REMOVED IP Denial of Services : https://str3ssed.co/ (not free anymore)
 - REMOVED IP Port Scanning : Most Used Port Scan here v2
 - REMOVED IP Port Scanning : www.ipvoid.com
 - REMOVED IP Port Scanning : pentest-tools.com
@@ -387,7 +397,7 @@ v2.0.0.0 - 04/08/2020
 + ADDED Direct Download : https://libertyvf.tv/
 + ADDED Torrent Proxy's : https://proxygalaxy.pw/
 + ADDED Windows : https://fileriver.net/
-+ ADDED Denial of Services : https://anonboot.com/
++ ADDED IP Denial of Services : https://anonboot.com/
 + ADDED Short URL's : https://tiny.cc/
 + ADDED Doxing Image Research : https://www.pic2map.com/
 + ADDED Doxing Image Research : https://onlineexifviewer.com/
@@ -398,8 +408,8 @@ v2.0.0.0 - 04/08/2020
 - REMOVED Torrenting :  https://www.zetorrents.io (old clone of OXTORRENT)
 - REMOVED "EXIT". (Not usefull since you already can exit with Windows)
 - REMOVED Torrent Searching : https://bitcq.com/ (Dead)
-- REMOVED Denial Of Services : https://minesearch.rip/ (dead)
-- REMOVED Denial Of Services : https://instress.me/ (dead)
+- REMOVED IP Denial of Services : https://minesearch.rip/ (dead)
+- REMOVED IP Denial of Services : https://instress.me/ (dead)
 - REMOVED "Tutorial" Sub Menu in Torrenting. (replaced by "HELP")
 - REMOVED "Illegal_Services_win.exe" for IS Source. (Not needed anymore since the new improved code)
 - REMOVED "Launcher.exe" for IS Source. (Not needed anymore since the new improved code)
@@ -425,8 +435,8 @@ v1.9.0.0 - 22/07/2020
 - IMPROVED Code. (Language detection)
 - IMPROVED Code. (Launcher errors)
 + ADDED Launcher Internet detection (Skip WebSites detection error messages if u don't have internet)
-+ ADDED Denial Of Services : https://str3ssed.co/
-+ ADDED Denial Of Services : https://instress.me/
++ ADDED IP Denial of Services : https://str3ssed.co/
++ ADDED IP Denial of Services : https://instress.me/
 + ADDED Short URL's in IPLoggers.
 + ADDED Short URL's : https://bitly.com/
 + ADDED Short URL's : https://shorturl.me/
@@ -454,7 +464,7 @@ v1.8.0.0 - 21/07/2020
 + UPDATED IPPinger.
 + ADDED cecho.exe
 + ADDED Downed WebSites detection to Launcher.
-+ ADDED Denial Of Services : https://freestresser.to/
++ ADDED IP Denial of Services : https://freestresser.to/
 + ADDED Anti-Virus Detection in Main Menu.
 + ADDED Windows Privacy in Main Menu.
 + ADDED Windows Privacy : OOSU10 (Win 10)
@@ -471,7 +481,7 @@ v1.8.0.0 - 21/07/2020
 + ADDED Anti-Virus Detection : Rogue Killer.
 + ADDED Anti-Virus Detection : No Bot.
 + ADDED Android : https://bitapk.com/
-- REMOVED Denial Of Services : https://torstress.com/ (Dead)
+- REMOVED IP Denial of Services : https://torstress.com/ (Dead)
 
 v1.7.0.0 - 14/07/2020
 - CUSTOMIZED Main Menu.
@@ -524,9 +534,9 @@ v1.6.0.0 - 08/07/2020
 - REMOVED Torrent Proxy's : https://thekickasstorrents.com/ (Scam)
 - REMOVED Windows : https://novelsghar.com/ (Outdated)
 - REMOVED Windows : https://install.lctutors.com.br (Outdated)
-- REMOVED Denial Of Services : https://fasthub.pw/ (Dead)
-- REMOVED Denial Of Services : https://stress.to/ (Dead)
-- REMOVED Denial Of Services : https://anonboot.pw/ (Dead)
+- REMOVED IP Denial of Services : https://fasthub.pw/ (Dead)
+- REMOVED IP Denial of Services : https://stress.to/ (Dead)
+- REMOVED IP Denial of Services : https://anonboot.pw/ (Dead)
 
 v1.5.0.0 - 22/06/2020
 - IMPROVED Code.
