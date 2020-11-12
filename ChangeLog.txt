@@ -1,6 +1,34 @@
-KNOW BUG : When using Windows 2000, XP, Vista, 7, 8, 8.1 the background removes itself and when you move the window he reappear.
-This problem will be solved in a future version, as soon as I find a solution for it.
-Suggest me anything and check for updates at my Telegram : https://t.me/illegal_services_forum
+KNOW BUGS : 
+- When using Windows 2000, XP, Vista, 7, 8, 8.1 the background removes itself and when you move the window he reappear.
+- Rose voice assistant can speak in a French-English in French computers. This issue will be fixed in a future release, as soon as I find a solution.
+SUGGESTIONS AND UPDATES :
+Telegram : https://t.me/illegal_services_forum
+
+v3.8.0.0 - 12/11/2020
+- REDUCED Code.
+- IMPROVED Code.
+- FIXED More Features : Windows Repair : Re-Register Store Apps not working.
++ ADDED Launcher : New versions release date informations.
++ ADDED Streaming FR : https://cinemey.com/ (Thanks LeSaintFisti)
++ ADDED Streaming FR : https://wvv.hds-streaming.la/ (Thanks LeSaintFisti)
++ ADDED Streaming FR : https://neko-sama.fr/ (Thanks LeSaintFisti)
++ ADDED Streaming FR : https://www.ianimes.org/ (Thanks LeSaintFisti)
++ ADDED IP Denial of Services : https://databooter.to/
++ ADDED Cracked Windows apps : https://shareappscrack.com/ (Thanks LeSaintFisti)
++ ADDED Cracked Windows apps : https://cracked-games.org/
++ ADDED Cracked Windows apps : https://getgamez.net/ (Thanks LeSaintFisti)
++ UPDATED IP Address Lookup : Type and Proxy informations.
++ UPDATED : Portable Apps : CCleaner v5.74.8184
++ UPDATED : Portable Apps : Blacbird v1.0.80.2:
++ UPDATED : Portable Apps : Display Driver Uninstaller v18.0.3.4
++ UPDATED : Portable Apps : Windows ISO Downloader
++ UPDATED : Windows and Office Cracks. (links been removed for Illegal reasons)
++ UPDATED : Windows and Office Cracks : KMSoffline v2.1.8
++ UPDATED : Windows and Office Cracks : Office 2013-2019 C2R Install v7.0.8
++ UPDATED : Windows and Office Cracks : W10 Digital License C# v3.7 Multilingual v3.7.0 
++ UPDATED : Windows and Office Cracks : AAct v4.2
+- REMOVED Launcher : Alpha Tester Code. (Not usefull anymore since the build updates system)
+- REMOVED https://streamings-vf.net/ (scam)
 
 v3.7.0.0 - 09/11/2020
 - IMPROVED Code.
