@@ -13,10 +13,10 @@ v3.8.0.0 - 12/11/2020
 + ADDED Streaming FR : https://wvv.hds-streaming.la/ (Thanks LeSaintFisti)
 + ADDED Streaming FR : https://neko-sama.fr/ (Thanks LeSaintFisti)
 + ADDED Streaming FR : https://www.ianimes.org/ (Thanks LeSaintFisti)
-+ ADDED IP Denial of Services : https://databooter.to/
 + ADDED Cracked Windows apps : https://shareappscrack.com/ (Thanks LeSaintFisti)
 + ADDED Cracked Windows apps : https://cracked-games.org/
 + ADDED Cracked Windows apps : https://getgamez.net/ (Thanks LeSaintFisti)
++ ADDED IP Denial of Services : https://databooter.to/
 + UPDATED IP Address Lookup : Type and Proxy informations.
 + UPDATED : Portable Apps : CCleaner v5.74.8184
 + UPDATED : Portable Apps : Blacbird v1.0.80.2:
