@@ -28,7 +28,7 @@ v3.8.0.0 - 12/11/2020
 + UPDATED : Windows and Office Cracks : W10 Digital License C# v3.7 Multilingual v3.7.0 
 + UPDATED : Windows and Office Cracks : AAct v4.2
 - REMOVED Launcher : Alpha Tester Code. (Not usefull anymore since the build updates system)
-- REMOVED https://streamings-vf.net/ (scam)
+- REMOVED Streaming FR : https://streamings-vf.net/ (scam)
 
 v3.7.0.0 - 09/11/2020
 - IMPROVED Code.
