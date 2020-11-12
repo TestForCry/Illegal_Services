@@ -1,4 +1,4 @@
-KNOW BUGS : 
+KNOW BUGS :
 - When using Windows 2000, XP, Vista, 7, 8, 8.1 the background removes itself and when you move the window he reappear.
 - Rose voice assistant can speak in a French-English in French computers. This issue will be fixed in a future release, as soon as I find a solution.
 SUGGESTIONS AND UPDATES :
@@ -25,7 +25,7 @@ v3.8.0.0 - 12/11/2020
 + UPDATED : Windows and Office Cracks. (links been removed for Illegal reasons)
 + UPDATED : Windows and Office Cracks : KMSoffline v2.1.8
 + UPDATED : Windows and Office Cracks : Office 2013-2019 C2R Install v7.0.8
-+ UPDATED : Windows and Office Cracks : W10 Digital License C# v3.7 Multilingual v3.7.0 
++ UPDATED : Windows and Office Cracks : W10 Digital License C# v3.7 Multilingual v3.7.0
 + UPDATED : Windows and Office Cracks : AAct v4.2
 - REMOVED Launcher : Alpha Tester Code. (Not usefull anymore since the build updates system)
 - REMOVED Streaming FR : https://streamings-vf.net/ (scam)
