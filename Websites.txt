@@ -235,7 +235,6 @@ dropmail.me
 yopmail.com
 generator.email
 temp-sms.org
-www.torproject.org
 fakepersongenerator.com
 boobify.club
 fakeimess.com
@@ -248,3 +247,4 @@ leak.sx
 patorjk.com
 photomosh.com
 www.remove.bg
+www.torproject.org
