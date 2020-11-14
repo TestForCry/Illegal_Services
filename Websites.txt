@@ -260,8 +260,6 @@ www.wareziens.net
 www.journaldupirate.net
 cyber-hub.pw
 webresolver.nl
-www.vedbex.com
-iraven.cc
 patorjk.com
 photomosh.com
 www.remove.bg
@@ -269,13 +267,10 @@ www.torproject.org
 ;;USEFULFORUMS
 www.forumzt.com
 pirates-forum.org
-eztv.re
-torrentgalaxy.to
 www.ettvdl.com
 www.1337x-forum.eu
 forums.glodls.to
 forum.telecharger-jeuxpc.fr
-www.wareziens.net
 forum.p2pfr.com
 rutracker.org
 hackforums.net
