@@ -269,7 +269,7 @@ www.torproject.org
 ;;USEFULFORUMS
 www.forumzt.com
 pirates-forum.org
-eztv.io
+eztv.re
 torrentgalaxy.to
 www.ettvdl.com
 www.1337x-forum.eu
