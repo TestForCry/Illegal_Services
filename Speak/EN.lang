@@ -1,12 +1,14 @@
 [First Launch]=Welcome to Illegal Services. My name is Rose, and I will be, your personal voice assistant. If you wish, you can deactivate me in the menu that appears.
 [Welcome Back]=Welcome back to Illegal Services.
-[Main Menu]=To navigate in the menu please select a number displayed in the screen and press enter.
+[Main Menu]=To navigate in the menu, select a number displayed in the screen and press enter.
 [Direct Download]=This menu allows you to download files to crack any applications, films, series, animes, or anything that is simply downloadable.
 [Streaming]=This menu allows you to watch in a video stream flux any films, series, animes through Internet for free.
 [Torrenting]=This menu allows you to download .torrent files to crack any applications, films, series, animes, or anything that is simply downloadable. You need an cross-platform BitTorrent client in order to use .torrent files. Exemple : Deluge, qBittorent, etc...
 [Torrent Tutorial]=Torrents are a method of distributing files over the internet. It operate over the BitTorrent protocol to facilitate what's called peer to peer file sharing. The most common way to use torrents is through a special file that uses the .torrent file extension. To open .torrent files download and install qBittorrent. Then you can run the .torrent that you have downloaded in one of the previous Illegal Services Torrenting links.
 [Cracked Windows apps]=This menu allows you to download files to crack any Windows executable applications.
 [Cracked Android APK]=This menu allows you to download files to crack any Android APK's.
+[Useful Websites]=This menu display a list of useful websites.
+[Forum Websites]=This menu display a list of forum websites.
 [Doxing]=This menu allows you to retrieve information about your victim, as well as advanced image or web searches.
 [YouTube DL]=This menu allows you to download music or video from internet and convert them to any format on your computer.
 [IP Denial of Services]=This menu display a list of free websites that allows you to take your target's router offline using their IP address and Port.
@@ -21,7 +23,7 @@
 [Windows and Office Cracks]=This menu allows you to crack your version of Windows, or Office.
 [More Features]=This menu allows you other features not enough important to be displayed in the Main Menu.
 [Credits]=This menu displays all the people who have contributed to the creation of Illegal Services.
-[Settings]=This menu allows yous you to change the appearance and behavior of Illegal Services.
+[Settings]=This menu allows you to change the appearance and behavior of Illegal Services.
 [Help]=Illegal Service is an application created to facilitate access to the site of illegal downloads: streaming, torrent, direct download, cracks, DDoS... Indeed, illegal sites must constantly change their domain names to counter government attacks. It's very annoying to have to find them every time. This is why Illegal Services will be your best friend. Especially since he only chooses a list of the best sites, and no scam site is included. But that's not all, Illegal Services is also a powerful multi tool allowing other functionalities such as DDoS attacks, Port Scanning and IP Lookup. All this to say that if you like watching movies, crack applications or doing DDoS attacks this is the perfect application created to serve you.
 [FAQ]=This menu allows you to answer a list of frequently asked questions about Illegal Services.
 [Error Internet]=It appears that you internet access is offline. You will be extremely limited in the usage of Illegal Services.
