@@ -34,6 +34,7 @@ voirseries.tv
 vostfrserie.net
 ;;ANIMES
 neko-sama.fr
+voiranime.to
 gum-gum-streaming.com
 mavanimes.cc
 streaming-integrale.com
@@ -42,13 +43,14 @@ vostanimes.com
 www.fullanimefr.com
 www.jetanimes.co
 www.universanimeizy.com
-www.animecomplet.org
+www.otakufr.com
+www.ianimes.org
 dbanimes.com
-animesvostfr.net
 animecomplet.fr
+animesvostfr.net
+www.animecomplet.org
 www.anime-ultime.net
 v5.anime-ultime.net
-www.ianimes.org
 ;;STREAMINGEN
 ;;FILMS
 www.primewire.li
