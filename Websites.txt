@@ -235,6 +235,7 @@ haveibeenpwned.com
 monitor.firefox.com
 dehashed.com
 leak-lookup.com
+weleakinfo.to
 leakedsource.ru
 onlynudes.net
 doxbin.org
