@@ -5,6 +5,7 @@ SUGGESTIONS AND UPDATES :
 Telegram : https://t.me/illegal_services_forum
 
 v3.9.0.0 - 18/11/2020
+- FIXED Launcher : Bug that where not displaying latest release date.
 - FIXED IP Address Lookup : Rose voice assistant where not saying the sentence again.
 + ADDED Frequently Asked Questions : Why Illegal Services is detected by many antiviruses ?
 + ADDED Direct Download Link (DDL) [FR] : https://telecharge-magazines.com/
