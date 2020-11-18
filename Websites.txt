@@ -279,6 +279,7 @@ forums.glodls.to
 forum.telecharger-jeuxpc.fr
 forum.p2pfr.com
 rutracker.org
+raidforums.com
 hackforums.net
 payload.sh
 forum.repack.me
