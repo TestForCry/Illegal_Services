@@ -4,15 +4,46 @@ KNOW BUGS :
 SUGGESTIONS AND UPDATES :
 Telegram : https://t.me/illegal_services_forum
 
+v3.9.0.0 - 18/11/2020
+- FIXED IP Address Lookup : Rose voice assistant where not saying the sentence again.
++ ADDED Frequently Asked Questions : Why Illegal Services is detected by many antiviruses ?
++ ADDED Direct Download Link (DDL) [FR] : https://telecharge-magazines.com/
++ ADDED Direct Download Link (DDL) [FR] : https://starwarez-sharing.org/
++ ADDED Direct Download Link (DDL) [EN] : https://jpddl.com/
++ ADDED Streaming [FR] : https://streaming-films.net/
++ ADDED Streaming [FR] : https://www.streamoi.com/
++ ADDED Streaming [FR] : https://voiranime.to/
++ ADDED Streaming [FR] : https://vostfree.com/
++ ADDED Streaming [FR] : https://www.universanimeizy.com/
++ ADDED Streaming [FR] : https://www.otakufr.com/
++ ADDED Streaming [FR] : https://animecomplet.fr/
++ ADDED Torrenting : https://ettvproxies.com/
++ ADDED Cracked Windows apps : https://appnee.com/
++ ADDED IP Denial of Services : https://powerstress.xyz/
++ ADDED IP Denial of Services : https://ddosforhire.net/
++ ADDED Main Menu : Useful Websites.
++ UPDATED IS Source : Youtube DL v2020.11.18
++ UPDATED IS Source : YouTube DLC v2020.11.11-4
++ UPDATED Direct Download Link (DDL) [FR] : https://www.tirexo.cc/
++ UPDATED Streaming [FR] : https://vostanimes.com/
++ UPDATED Streaming [FR] : https://www.animecomplet.org/
++ UPDATED Torrenting : https://unblockit.app/
++ UPDATED Torrenting : https://www.ettvcentral.com/
++ UPDATED Cracked Android APK's : www.vancedapp.com
++ UPDATED Portable Apps : Driver Store Explorer v0.11.64
++ UPDATED Portable Apps : Blackbird v1.0.80.2
++ UPDATED Portable Apps Process Hacker v3.0.3585
+- REMOVED IP Port Scanning : Choice verification. (cause websites URL are not working)
+
 v3.8.0.0 - 12/11/2020
 - REDUCED Code.
 - IMPROVED Code.
 - FIXED More Features : Windows Repair : Re-Register Store Apps not working.
 + ADDED Launcher : New versions release date informations.
-+ ADDED Streaming FR : https://cinemey.com/ (Thanks LeSaintFisti)
-+ ADDED Streaming FR : https://wvv.hds-streaming.la/ (Thanks LeSaintFisti)
-+ ADDED Streaming FR : https://neko-sama.fr/ (Thanks LeSaintFisti)
-+ ADDED Streaming FR : https://www.ianimes.org/ (Thanks LeSaintFisti)
++ ADDED Streaming [FR] : https://cinemey.com/ (Thanks LeSaintFisti)
++ ADDED Streaming [FR] : https://wvv.hds-streaming.la/ (Thanks LeSaintFisti)
++ ADDED Streaming [FR] : https://neko-sama.fr/ (Thanks LeSaintFisti)
++ ADDED Streaming [FR] : https://www.ianimes.org/ (Thanks LeSaintFisti)
 + ADDED Cracked Windows apps : https://shareappscrack.com/ (Thanks LeSaintFisti)
 + ADDED Cracked Windows apps : https://cracked-games.org/
 + ADDED Cracked Windows apps : https://getgamez.net/ (Thanks LeSaintFisti)
@@ -28,7 +59,7 @@ v3.8.0.0 - 12/11/2020
 + UPDATED : Windows and Office Cracks : W10 Digital License C# v3.7 Multilingual v3.7.0
 + UPDATED : Windows and Office Cracks : AAct v4.2
 - REMOVED Launcher : Alpha Tester Code. (Not usefull anymore since the build updates system)
-- REMOVED Streaming FR : https://streamings-vf.net/ (scam)
+- REMOVED Streaming [FR] : https://streamings-vf.net/ (scam)
 
 v3.7.0.0 - 09/11/2020
 - IMPROVED Code.
@@ -63,7 +94,7 @@ v3.6.0.0 - 07/11/2020
 
 v3.5.0.0 - 01/11/2020
 - FIXED Code.
-+ ADDED choice verification. (IP Lookup) (thank you so much sintrode for the big help)
++ ADDED choice verification. (IP Adress Lookup) (thank you so much sintrode for the big help)
 + ADDED Settings : Change language to English/French.
 
 v3.4.0.0 - 31/10/2020
@@ -118,14 +149,14 @@ v2.9.0.0 - 17/10/2020
 - FIXED IP Address Lookup : " / characters glitch removed.
 - FIXED IP Address Lookup : https://www.iplocation.net/ not working.
 + UPDATED IS Source : cURL v7.73.0
-+ UPDATED Direct Download (DDL) : www.zt-za.com
++ UPDATED Direct Download Link (DDL) : www.zt-za.com
 + UPDATED IP Denial of Services : stresser.net
 + UPDATED IP Denial of Services : anonboot.com
 + UPDATED YouTube DL : Now will always download in your personal music folder.
 + ADDED Launcher : Advertisement message.
-+ ADDED Direct Download EN : https://anidl.org/
-+ ADDED Direct Download EN : https://tb.rg-adguard.net/
-+ ADDED Direct Download FR : https://www.wawacity.vip/
++ ADDED Direct Download Link [EN] : https://anidl.org/
++ ADDED Direct Download Link [EN] : https://tb.rg-adguard.net/
++ ADDED Direct Download Link [FR] : https://www.wawacity.vip/
 + ADDED Doxing Image Search : https://pimeyes.com/
 + ADDED IP Denial of Services : https://litestress.com/
 + ADDED IP Denial of Services : https://str3ssed.co/
@@ -152,7 +183,7 @@ v2.7.0.0 - 09/10/2020
 - FIXED a bug that where creating temporary files without deleting them. (thank you so much anic17 for the big help)
 - FIXED Torrenting : https://1337x.to/ not working.
 - FIXED IP Port Scanning : https://www.adminsub.net/ not working.
-- FIXED IP Lookup not working. (thank you so much anic17 for the big help)
+- FIXED IP Adress Lookup not working. (thank you so much anic17 for the big help)
 - FIXED Portable Apps : Windows Privacy Dashboard not working. (a thank to Rose who reminded me)
 - FIXED some error messages.
 + ADDED more error messages.
@@ -167,12 +198,12 @@ v2.7.0.0 - 09/10/2020
 + UPDATED Compiler Version.
 + UPDATED IS Source : youtube-dl 2020.09.20
 + UPDATED Main Menu : Credits
-+ UPDATED Streaming FR : https://libertyvf.bz/
-+ UPDATED Streaming FR : https://wwv.streamfilm.cc/
-+ UPDATED Streaming FR : https://animecomplet.com/
-+ UPDATED IP Lookup : Mobile (cellular) connection (thank you so much anic17 for the big help)
-+ UPDATED IP Lookup : Proxy, VPN or Tor exit address (thank you so much anic17 for the big help)
-+ UPDATED IP Lookup : Hosting, colocated or data center (thank you so much anic17 for the big help)
++ UPDATED Streaming [FR] : https://libertyvf.bz/
++ UPDATED Streaming [FR] : https://wwv.streamfilm.cc/
++ UPDATED Streaming [FR] : https://animecomplet.com/
++ UPDATED IP Adress Lookup : Mobile (cellular) connection (thank you so much anic17 for the big help)
++ UPDATED IP Adress Lookup : Proxy, VPN or Tor exit address (thank you so much anic17 for the big help)
++ UPDATED IP Adress Lookup : Hosting, colocated or data center (thank you so much anic17 for the big help)
 + UPDATED Portable Apps : Ccleaner v5.72.7994
 + UPDATED Portable Apps : Driver Store Explorer v0.11.42
 + UPDATED Portable Apps : MSI Util v3
@@ -187,17 +218,17 @@ v2.6.0.0 - 18/09/2020
 - IMPROVED Code. (All file deletion are now folder sensitive)
 - IMPROVED Code. (All .txt logs behave more smart now)
 + UPDATED IS Source : youtube-dl 2020.09.14
-+ UPDATED Direct Download : https://www.annuaire--telechargement.com/
-+ UPDATED Streaming FR : https://gum-gum-streaming.com/
-+ UPDATED Streaming EN : https://www.uwatchfree.mx/
++ UPDATED Direct Download Link : https://www.annuaire--telechargement.com/
++ UPDATED Streaming [FR] : https://gum-gum-streaming.com/
++ UPDATED Streaming [EN] : https://www.uwatchfree.mx/
 + UPDATED Portable Apps : Ccleaner v5.71.7971
 + UPDATED Portable Apps : Display Driver Uninstaller v18.0.3.2
 + UPDATED Portable Apps : Driver Store Explorer v0.11.26.zip
 + UPDATED Portable Apps : MSRT x64 v1.323.1398.0 / x86 v1.323.1379.0
 + UPDATED Portable Apps : Crystal Disk Info to v8.8.7
-+ ADDED Streaming FR : https://www6.filmstreaming.to/
-+ ADDED Streaming FR : https://vostanime.org/
-+ ADDED Streaming FR : https://dbanimes.com/
++ ADDED Streaming [FR] : https://www6.filmstreaming.to/
++ ADDED Streaming [FR] : https://vostanime.org/
++ ADDED Streaming [FR] : https://dbanimes.com/
 + ADDED Torrent Searching : https://torrentz2k.xyz/
 + ADDED Torrent Searching : https://idope.se/
 + ADDED Torrent Proxy's : https://torrents.io/
@@ -206,10 +237,10 @@ v2.6.0.0 - 18/09/2020
 + ADDED Cracked Windows apps : https://www.mrpcgamer.com/
 + ADDED Cracked Windows apps : https://skidrowcodex.co/
 + ADDED Cracked Windows apps : https://skidrowcodexgames.com/
-- REMOVED Streaming FR : https://anime-anime.fr/ (Clone of https://www.gum-gum-streaming.co/)
-- REMOVED Streaming FR : https://www.full-anime.fr/ (Clone of https://www.gum-gum-streaming.co/)
-- REMOVED Streaming FR : https://www.wakanim.tv/ (Paid website)
-- REMOVED Streaming EN : https://popcornflix.io/ (There's not a lot of films available)
+- REMOVED Streaming [FR] : https://anime-anime.fr/ (Clone of https://www.gum-gum-streaming.co/)
+- REMOVED Streaming [FR] : https://www.full-anime.fr/ (Clone of https://www.gum-gum-streaming.co/)
+- REMOVED Streaming [FR] : https://www.wakanim.tv/ (Paid website)
+- REMOVED Streaming [EN] : https://popcornflix.io/ (There's not a lot of films available)
 - REMOVED Torrent Searching : https://1337x.to/ (Now only show in Torrenting)
 - REMOVED Cracked Android APK's : https://bitapk.com/
 
@@ -221,8 +252,8 @@ v2.5.0.0 - 13/09/2020
 - FIXED YouTube DL : .webm not working.
 - FIXED IP Port Scanning : NMAP now only show opened ports. (before it was also showing CLOSED one's)
 + UPDATED Main Menu.
-+ UPDATED Streaming EN : https://animedao.to/
-+ UPDATED Streaming EN : https://www.uwatchfree.ag/
++ UPDATED Streaming [EN] : https://animedao.to/
++ UPDATED Streaming [EN] : https://www.uwatchfree.ag/
 + UPDATED Torrenting : https://torrentz2.is/
 + UPDATED IP Denial of Services : https://anonboot.net/
 + UPDATED Portable Apps : Windows Spy Blocker v4.33.1
@@ -242,7 +273,7 @@ v2.5.0.0 - 13/09/2020
 + ADDED Cracked Windows apps : https://repack-mechanics.com/
 + ADDED Cracked Windows apps : http://www.blackboxrepack.com/
 + ADDED IP Denial of Services : https://stresser.net/
-- REMOVED Streaming EN : https://kissanime.pro/
+- REMOVED Streaming [EN] : https://kissanime.pro/
 - REMOVED Cracked Windows apps : https://forum.ru-board.com/
 - REMOVED IP Denial of Services : https://str3ssed.co/
 - REMOVED IP Denial of Services : https://client.undisclosed.to/
@@ -258,35 +289,35 @@ v2.4.0.0 - 25/08/2020
 - FIXED Doxing : Dox Tool v2 not working.
 - FIXED HELP (Main Menu) : English language was missing some line return's.
 + UPDATED Setup Eula.
-+ UPDATED Streaming FR : https://animecomplet.co
++ UPDATED Streaming [FR] : https://animecomplet.co
 + UPDATED Torrent Proxy's : https://proxybay.gdn/
 + UPDATED Torrent Proxy's : https://unblockit.top/
 + ADDED Torrent Proxy's : https://unblockproject.uno/
-+ ADDED Streaming FR : https://wvw.streamfilm.cc/
-+ ADDED Streaming FR : https://voir.lesseriestreaming.com/
-+ ADDED Streaming FR : https://voirseries.tv/
-+ ADDED Streaming FR : https://streaming-integrale.com/
-+ ADDED Streaming FR : https://www.gum-gum-streaming.co/
-+ ADDED Streaming FR : https://www.fullanimefr.com/
-+ ADDED Streaming FR : https://www.manga-vf.fr/
-+ ADDED Streaming FR : https://anime-anime.fr/
-+ ADDED Streaming FR : https://www.full-anime.fr/
-+ ADDED Streaming FR : https://www.wakanim.tv/
-+ ADDED Streaming EN : https://www.primewire.li/
-+ ADDED Streaming EN : https://losmovies.to/
-+ ADDED Streaming EN : https://watch-serieshd.cc/
-+ ADDED Streaming EN : https://123movies.co/
-+ ADDED Streaming EN : https://gomovie.co/
-+ ADDED Streaming EN : https://primewire.pw/
-+ ADDED Streaming EN : https://gomovies.re/
-+ ADDED Streaming EN : https://gomovies-online.me/
-+ ADDED Streaming EN : https://watchseries.movie/
-+ ADDED Streaming EN : https://f2movies.to/
-+ ADDED Streaming EN : https://solarmovie.to/
-+ ADDED Streaming EN : https://fmovies.to/
-+ ADDED Streaming EN : https://www.uwatchfree.ai/
-+ ADDED Streaming EN : https://123movieshub.tc/
-+ ADDED Streaming EN : https://popcornflix.io/
++ ADDED Streaming [FR] : https://wvw.streamfilm.cc/
++ ADDED Streaming [FR] : https://voir.lesseriestreaming.com/
++ ADDED Streaming [FR] : https://voirseries.tv/
++ ADDED Streaming [FR] : https://streaming-integrale.com/
++ ADDED Streaming [FR] : https://www.gum-gum-streaming.co/
++ ADDED Streaming [FR] : https://www.fullanimefr.com/
++ ADDED Streaming [FR] : https://www.manga-vf.fr/
++ ADDED Streaming [FR] : https://anime-anime.fr/
++ ADDED Streaming [FR] : https://www.full-anime.fr/
++ ADDED Streaming [FR] : https://www.wakanim.tv/
++ ADDED Streaming [EN] : https://www.primewire.li/
++ ADDED Streaming [EN] : https://losmovies.to/
++ ADDED Streaming [EN] : https://watch-serieshd.cc/
++ ADDED Streaming [EN] : https://123movies.co/
++ ADDED Streaming [EN] : https://gomovie.co/
++ ADDED Streaming [EN] : https://primewire.pw/
++ ADDED Streaming [EN] : https://gomovies.re/
++ ADDED Streaming [EN] : https://gomovies-online.me/
++ ADDED Streaming [EN] : https://watchseries.movie/
++ ADDED Streaming [EN] : https://f2movies.to/
++ ADDED Streaming [EN] : https://solarmovie.to/
++ ADDED Streaming [EN] : https://fmovies.to/
++ ADDED Streaming [EN] : https://www.uwatchfree.ai/
++ ADDED Streaming [EN] : https://123movieshub.tc/
++ ADDED Streaming [EN] : https://popcornflix.io/
 + ADDED Portable Apps (Anti Viruses and Malwares) : Kaspersky KVRT
 + ADDED Portable Apps (Anti Viruses and Malwares) : Kaspersky TDSSKiller
 + ADDED Portable Apps (Anti Viruses and Malwares) : Microsoft Safety Scanner
@@ -314,7 +345,7 @@ v2.3.0.0 - 19/08/2020
 + UPDATED Torrenting : https://www.oxtorrent.cc/
 + UPDATED Torrenting : https://www.torrent9.gg/
 + UPDATED Torrent Proxy's  : https://torrentmirror.fun/
-+ ADDED Streaming EN : https://hentaihaven.org/
++ ADDED Streaming [EN] : https://hentaihaven.org/
 + ADDED Launcher : Checking new updates . . .
 + ADDED more error messages.
 + ADDED more translation.
@@ -367,10 +398,10 @@ v2.1.0.0 - 14/08/2020
 + ADDED Doxing : https://www.toolsbug.com/youtube-video-tag-extractor.php
 + ADDED Doxing : http://online-free-tools.com/en/youtube_video_tags_extract_url
 + ADDED Doxing : https://ytubetool.com/
-+ ADDED Streaming EN in Streaming.
-+ ADDED Streaming EN : https://www2.f2movies.to/
-+ ADDED Streaming EN : https://www.watchepisodeseries1.com/
-+ ADDED Streaming EN : https://www2.gogoanime.video/
++ ADDED Streaming [EN] in Streaming.
++ ADDED Streaming [EN] : https://www2.f2movies.to/
++ ADDED Streaming [EN] : https://www.watchepisodeseries1.com/
++ ADDED Streaming [EN] : https://www2.gogoanime.video/
 + ADDED Torrenting : https://extratorrent.ag/
 + ADDED Settings : Disable Launcher downed websites scan.
 + ADDED Now can choice "B"="BACK" to reduce your time; same for "H"="HELP" and "I"="INSTALL".
@@ -422,7 +453,7 @@ v2.0.0.0 - 04/08/2020
 + ADDED "cmdwiz.exe" for IS Source.
 + ADDED "cmdbkg.exe" for IS Source.
 + ADDED "Our telegram group" in Main Menu.
-+ ADDED Direct Download : https://libertyvf.tv/
++ ADDED Direct Download Link : https://libertyvf.tv/
 + ADDED Torrent Proxy's : https://proxygalaxy.pw/
 + ADDED Windows : https://fileriver.net/
 + ADDED IP Denial of Services : https://anonboot.com/
@@ -518,17 +549,17 @@ v1.7.0.0 - 14/07/2020
 + UPDATED all link Addresses.
 + ADDED : Signed all my files.
 + ADDED an Setup to install or uninstall Illegal Services.
-+ ADDED Direct Download (DDL) in Main Menu.
++ ADDED Direct Download Link (DDL) in Main Menu.
 + ADDED Portable in WINDOWS.
 + ADDED Streaming : http://www.anime-ultime.net/ (v4)
 + ADDED Streaming : https://v5.anime-ultime.net/ (v5)
 + ADDED Torrent Searching : https://torrentproject2.com/
 + ADDED Torrent Searching : https://isohunt.app/
-+ ADDED Direct Download : https://www.tirexo.com/
-+ ADDED Direct Download : https://www.zt-za.com/
-+ ADDED Direct Download : https://www.ddl1.best/
-+ ADDED Direct Download : https://www.site-de-telechargement.com/
-+ ADDED Direct Download : https://www.ddl-is.land/
++ ADDED Direct Download Link : https://www.tirexo.com/
++ ADDED Direct Download Link : https://www.zt-za.com/
++ ADDED Direct Download Link : https://www.ddl1.best/
++ ADDED Direct Download Link : https://www.site-de-telechargement.com/
++ ADDED Direct Download Link : https://www.ddl-is.land/
 + ADDED WINDOWS : https://filecr.com/
 + ADDED WINDOWS : https://crackingpatching.com/
 + ADDED WINDOWS : https://crackzsoft.me/
@@ -575,7 +606,7 @@ v1.5.0.0 - 22/06/2020
 + UPDATED IP Pinger TCP.
 + UPDATED links for Streaming VF.
 + UPDATED Version Title.
-+ UPDATED How IP Lookups links works.
++ UPDATED How IP Adress Lookups links works.
 + ADDED SpeedTest.
 + ADDED Internet DNS Changer.
 + ADDED Internet Optimizer.
@@ -586,7 +617,7 @@ v1.4.0.0 - 25/05/2020
 - FIXED a display bug when you enlarge and then shrink the window.
 - FIXED "exit" & "back" command can now be writted with caps.
 + ADDED Main Menu is now auto adjusted for a good window size.
-+ ADDED IP Lookup websites.
++ ADDED IP Adress Lookup websites.
 + ADDED executable extension.
 
 v1.3.0.0 - 23/05/2020
