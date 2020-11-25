@@ -247,7 +247,6 @@ freevpn.me
 www.vpnbook.com
 cloudssh.net
 www.freeopenvpn.org
-www.firexproxy.com
 free-proxy-list.net
 protonmail.com
 www.startmail.com
