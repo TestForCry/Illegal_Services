@@ -1,8 +1,25 @@
-KNOW BUGS :
+KNOWN BUGS :
 - When using Windows 2000, XP, Vista, 7, 8, 8.1 the background removes itself and when you move the window he reappear.
 - Rose voice assistant can speak in a French-English in French computers. This issue will be fixed in a future release, as soon as I find a solution.
 SUGGESTIONS AND UPDATES :
 Telegram : https://t.me/illegal_services_forum
+
+v4.0.0.0 - 30/11/2020
+- REDUCED Code. (~17 ko ; thanks to anic17)
+- IMPROVED Setup Installer.
+- FIXED a bug where Rose was executing minimized in another processus.
++ ADDED SEARCH to Direct Download Link, Streaming, Torrenting, Cracked Windows apps, Cracked Android APK's, Doxing. (Google feat Illegal Services search engine)
++ ADDED Streaming [FR] : https://mavanimes.co/
++ ADDED Useful Websites : https://webresolver.nl/tools/leaked_database
++ UPDATED IS Icon. (Copyright from owner of the old logo)
++ UPDATED IS Source : YouTube DL v2020.11.29
++ UPDATED Direct Download Link (DDL) [FR] : https://www.tirexo.lol/
++ UPDATED Portable Apps : Winaero Tweaker v0.18
++ UPDATED Portable Apps : Revo Uninstaller v2.2.0
++ UPDATED Portable Apps : Process Hacker v3.0.3593
++ UPDATED Settings : Scan down websites.
+- REMOVED Useful Websites : https://www.firexproxy.com/ (down)
+- REMOVED Settings : 2 backgrounds.
 
 v3.9.0.0 - 18/11/2020
 - FIXED Launcher : Bug that where not displaying latest release date.
