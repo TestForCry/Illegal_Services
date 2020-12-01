@@ -100,8 +100,10 @@ yts.mx
 eztv.re
 nyaa.si
 yggtorrent.si
+www.sharewood.tv
 www.oxtorrent.cc
 www.torrent9.gg
+search.torrends.to
 torrentz2k.xyz
 torrentz2.is
 torrentseeker.com
@@ -113,9 +115,12 @@ idope.se
 proxybay.kim
 proxygalaxy.pw
 eztvstatus.com
+ettvproxies.com
+torrends.to
 unblockit.app
 unblockproject.uno
 torrentmirror.fun
+unblocktorrent.com
 ;;TORRENTTUTORIAL
 dev.deluge-torrent.org
 ;;WINDOWS
@@ -216,8 +221,7 @@ onlineexifviewer.com
 www.metadata2go.com
 searx.neocities.org
 yippy.com
-www.metacrawler.com
-www.dogpile.com
+www.infospace.com
 www.delta-search.com
 www.excite.co.jp
 www.startpage.com
