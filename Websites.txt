@@ -2,6 +2,16 @@
 unshorten.me
 github.com
 t.me
+;;CREDITS
+www.f2ko.de
+www.advancedinstaller.com
+www.dostips.com
+www.7-zip.org
+sourceforge.net
+curl.haxx.se
+discord.gg
+swhconsole.org
+tim-greller.de
 ;;DDLFR
 www.tirexo.lol
 www.zt-za.com
@@ -23,7 +33,6 @@ tb.rg-adguard.net
 ;;STREAMINGFR
 ;;FILMS
 www.stream-is.land
-libertyvf.bz
 cinemey.com
 filmstreaming.to
 wvv.hds-streaming.la
