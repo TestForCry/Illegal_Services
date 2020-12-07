@@ -280,12 +280,10 @@ str3ssed.co
 thunderstresser.me
 downed.io
 freestresser.to
-stresslab.io
 stressing.ninja
 powerstress.xyz
 databooter.to
 freeipstresser.net
-meteor-security.to
 www.ipstresser.com
 ddosforhire.net
 ;;PORT
